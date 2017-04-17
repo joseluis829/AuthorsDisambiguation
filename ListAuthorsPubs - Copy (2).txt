@@ -1,0 +1,38 @@
+Keywords Autor: [ELECTRICIDAD, GESTIÓN DE CALIDAD, Innovación educativa, Maestría en Gerencia y Liderazgo Educacional - Tesis, MECÁNICA, Métodos de estudios, SISTEMA DE GESTIÓN, ANTENAS, Calidad educativa]
+Keywords Publication: [pain, modular, resting, organization, patients, back, state, brain, networks, chronic]
+Distance: 0.9655761317969264
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/modular-organization-of-brain-resting-state-networks-in-chronic-back-pain http://ucuenca.edu.ec/resource/author/pedro-santiago-montoya-balarezo
+
+Keywords Autor: [Planificación empresarial]
+Keywords Publication: [flexibility, security, graphs, access, data, enterprise, control, linked]
+Distance: 0.9572431067816533
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/flexibility-security-in-linked-enterprise-data-access-control http://ucuenca.edu.ec/resource/author/patricia-ortiz
+
+Keywords Autor: [Planificación empresarial]
+Keywords Publication: [reference, comvantage, framework, enablers, enterprise, collaboration, future, mobile, information, interoperability, internet]
+Distance: 0.9744949189081985
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/mobile-enterprise-collaboration-reference-framework-and-enablers-for-future-internet-information http://ucuenca.edu.ec/resource/author/patricia-ortiz
+
+Keywords Autor: [Planificación empresarial]
+Keywords Publication: [innovative, virtual, smebased, micro, enterprise, collaboration, agile, networks, approach]
+Distance: 0.9347466987561133
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/an-innovative-virtual-enterprise-approach-to-agile-micro-and-sme-based-collaboration http://ucuenca.edu.ec/resource/author/patricia-ortiz
+
+Keywords Autor: [Planificación empresarial]
+Keywords Publication: [Neural Network, Multi Criteria Decision Making, Assembly Line Balancing, Optimization Technique, Area of Interest, Decision Models, Group Technology, Industrial Engineering, Just In Time, Operations Management, Production Management]
+Distance: 0.8629857554660315
+Keywords Autor: [Planificación empresarial]
+Keywords Publication: [enhanced, through, cloud, access, data, collaboration, multidomain, mobile, manufacturing, control, secure, linked]
+Distance: 0.9873160144815255
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/enhanced-multi-domain-access-control-for-secure-mobile-collaboration-through-linked-data-cloud-in http://ucuenca.edu.ec/resource/author/patricia-ortiz
+

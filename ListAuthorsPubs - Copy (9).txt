@@ -1,0 +1,152 @@
+Keywords Autor: [strategic, corporate, social, responsibility, management, competitiveness, stakeholders]
+Keywords Publication: [planning, development, study, projects, software, made, advocacy, case, ecuador, inspection]
+Distance: 0.8974540474454549
+ 
+Keywords Autor: [strategic, corporate, social, responsibility, management, competitiveness, stakeholders]
+Keywords Publication: [small, development, companies, code, software, metric, ecuadorian]
+Distance: 0.9808033576473884
+ 
+Keywords Autor: [manager, wireframe, information, technology, interface, user, content, architecture]
+Keywords Publication: [genetic, models, developing, metaheuristics, learning, pals, local, cooperative, adaptive, search, framework]
+Distance: 0.9744466122886156
+ 
+Keywords Autor: [industrial, signs, occupational, ergonomics, safety, health]
+Keywords Publication: [medellin, linear, waiting, simulation, center, health, program, approach, discrete, system, optimization]
+Distance: 1.1226711985361142
+ 
+0.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/simulation-and-optimization-in-health-center-in http://ucuenca.edu.ec/resource/author/karol-tatiana-pérez-parra
+
+ 
+Keywords Autor: [identification, method, management, financial, statements, risk, risicar]
+Keywords Publication: [features, detection, using, approximation, motion, color, bi, automatic, moving, gaussian, modal]
+Distance: 1.0995017300026153
+ 
+1.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/automatic-moving-object-detection-using-motion-and-color-features-and-bi-modal-gaussian http://ucuenca.edu.ec/resource/author/víctor-mejía-martínez
+
+ 
+Keywords Autor: [identification, method, management, financial, statements, risk, risicar]
+Keywords Publication: [based, test, measurers, mechanical, control, measurement, meters, labview, characterize, automation, system]
+Distance: 0.9881416080624983
+ 
+Keywords Autor: [practice, school, hygiene, safety, personal, handling, good, bars, food]
+Keywords Publication: [databases, study, biodiversity, data, e, peer, science, query, scientific, model, language]
+Distance: 1.154103380794658
+ 
+2.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/peer-to-peer-databases-for-biodiversity-case http://ucuenca.edu.ec/resource/author/daniela-cristina-alvarez-molina
+
+ 
+Keywords Autor: [planning, development, process, elements, emotional, intelligence]
+Keywords Publication: [generation, models, execution, process, modeling, qos, business, service, automatic, from, soaml]
+Distance: 1.0059772037737391
+ 
+3.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/qos-modeling-and-automatic-generation-from-soaml-service-models-for-business-process http://ucuenca.edu.ec/resource/author/andrea-delgado-b
+
+ 
+Keywords Autor: [planning, development, process, elements, emotional, intelligence]
+Keywords Publication: [processes, process, orientation, business, towards, framework, service, driven, model, oriented, class]
+Distance: 0.981389607495454
+ 
+Keywords Autor: [planning, development, process, elements, emotional, intelligence]
+Keywords Publication: [based, development, processes, software, business, services, oriented]
+Distance: 0.8467508640745762
+ 
+Keywords Autor: [planning, development, process, elements, emotional, intelligence]
+Keywords Publication: [generation, process, development, orientation, business, automatic, technology, improvement, tools, cycle, life]
+Distance: 0.8202274330847404
+ 
+Keywords Autor: [planning, development, process, elements, emotional, intelligence]
+Keywords Publication: [development, processes, process, business, paradigms, systematic, computing, application, service, review, driven]
+Distance: 0.9297603415565506
+ 
+Keywords Autor: [planning, development, process, elements, emotional, intelligence]
+Keywords Publication: [enfoque, soa, service, desarrollo, aplicaciones, oriented, architecture]
+Distance: 0.9391027928692603
+ 
+Keywords Autor: [planning, development, process, elements, emotional, intelligence]
+Keywords Publication: [generation, based, execution, process, business, pattern, towards, services, support]
+Distance: 0.9725562173680564
+ 
+Keywords Autor: [planning, development, process, elements, emotional, intelligence]
+Keywords Publication: [development, software, experimentation, course, model, engineering]
+Distance: 0.8247537536836451
+ 
+Keywords Autor: [planning, development, process, elements, emotional, intelligence]
+Keywords Publication: [coverage, chains, testing, transformations, rule, relations, qvt]
+Distance: 0.999586909043275
+ 
+Keywords Autor: [planning, development, process, elements, emotional, intelligence]
+Keywords Publication: [process, business, collaborative, service, transformations, model, from, alignment, soaml]
+Distance: 0.9239788107153101
+ 
+Keywords Autor: [planning, development, process, elements, emotional, intelligence]
+Keywords Publication: [based, execution, measures, processes, business, continuous, realized, services, improvement, approach, integrated]
+Distance: 0.9913342853436015
+ 
+Keywords Autor: [planning, development, process, elements, emotional, intelligence]
+Keywords Publication: [aware, process, systems, organization, focus, from, information, changing]
+Distance: 0.9406753524712242
+ 
+Keywords Autor: [planning, development, process, elements, emotional, intelligence]
+Keywords Publication: [service, engineering, soaml, oriented, tool, eclipse, applications]
+Distance: 0.9409529361003643
+ 
+Keywords Autor: [planning, development, process, elements, emotional, intelligence]
+Keywords Publication: [proprietary, systems, studies, evaluating, systematic, source, approach, tools, bpm, case, open]
+Distance: 0.9642568502571177
+ 
+Keywords Autor: [planning, development, process, elements, emotional, intelligence]
+Keywords Publication: [generation, process, development, orientation, business, software, soaml, systems, management, service, design]
+Distance: 0.9043417832685937
+ 
+Keywords Autor: [planning, development, process, elements, emotional, intelligence]
+Keywords Publication: [generation, execution, vision, based, models, process, business, automatic, soas]
+Distance: 1.0966688515214518
+ 
+4.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/automatic-generation-of-soas-for-business-process-vision-based-on http://ucuenca.edu.ec/resource/author/andrea-delgado-b
+
+ 
+Keywords Autor: [planning, development, process, elements, emotional, intelligence]
+Keywords Publication: [process, automating, flexible, web, systems, warehouses, building, bpm]
+Distance: 0.9502766953162625
+ 
+Keywords Autor: [planning, development, process, elements, emotional, intelligence]
+Keywords Publication: [execution, processes, business, continuous, driven, implemented, services, improvement, measurement]
+Distance: 0.9944690520228985
+ 
+Keywords Autor: [planning, development, process, elements, emotional, intelligence]
+Keywords Publication: [atam, software, method, caso, estudio, arquitecturas, analysis, evaluación, tradeoff, architecture]
+Distance: 0.9977597648182721
+ 
+Keywords Autor: [planning, development, process, elements, emotional, intelligence]
+Keywords Publication: [process, para, extensión, proceso, unified, driven, model, mda, rup, rational, architecture]
+Distance: 1.0031219170164138
+ 
+5.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/mda-driven-para-proceso-basado-en-rup-unified http://ucuenca.edu.ec/resource/author/andrea-delgado-b
+
+ 
+Keywords Autor: [planning, development, process, elements, emotional, intelligence]
+Keywords Publication: [processes, modeling, business, service, towards, supporting, oriented, ontology]
+Distance: 0.9799860913850611
+ 
+Keywords Autor: [planning, development, process, elements, emotional, intelligence]
+Keywords Publication: [aware, bpmn, processes, business, web, warehouses, construction, towards, quality]
+Distance: 0.981788886100806
+ 

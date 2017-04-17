@@ -1,0 +1,70 @@
+Keywords Autor: [Facultad de medicina, Investigación científica, Universidad de Guayaquil]
+Keywords Publication: [Aromadendrene, Germacrene D, Lamiaceae, Lepechinia paniculata, Scutellaria volubilis]
+Distance: 1.0
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/chemical-composition-of-essential-oils-of-two-species-of-the-lamiaceae-scutellaria-volubilis-and-lepechinia-paniculata-from-loja http://ucuenca.edu.ec/resource/author/eduardo-gustavo-valarezo-armijos
+
+Keywords Autor: [Facultad de medicina, Investigación científica, Universidad de Guayaquil]
+Keywords Publication: [Amoxicillin, Electrospinning, Poly(?-caprolactone), Fibers, Layered double hydroxide]
+Distance: 1.0279188315346168
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/fabrication-and-sustained-release-properties-of-electrospun-fibers-loaded-with-layered-double-hydroxide-nanoparticles-intercalated-with http://ucuenca.edu.ec/resource/author/eduardo-gustavo-valarezo-armijos
+
+Keywords Autor: [Facultad de medicina, Investigación científica, Universidad de Guayaquil]
+Keywords Publication: [Nanofibers, Antibacterial activity, Amoxicillin, Electrospinning, Poly(?-caprolactone)]
+Distance: 1.0
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/characterization-and-antibacterial-activity-of-electrospun-fibers-loaded-with-amoxicillin-for-controlled-release-in-biomedical http://ucuenca.edu.ec/resource/author/eduardo-gustavo-valarezo-armijos
+
+Keywords Autor: [Facultad de medicina, Investigación científica, Universidad de Guayaquil]
+Keywords Publication: [Astereaceae, Baccharis latifolia, Limonene, Trichophyton mentagrophytes, Trichophyton rubrum]
+Distance: 1.0
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/chemical-antifungal-and-antibacterial-activity-of-the-essential-oil-from-baccharis-latifolia-from-ecuador http://ucuenca.edu.ec/resource/author/eduardo-gustavo-valarezo-armijos
+
+Keywords Autor: [Facultad de medicina, Investigación científica, Universidad de Guayaquil]
+Keywords Publication: [Astereaceae, Baccharis latifolia, Limonene, Trichophyton mentagrophytes, Trichophyton rubrum]
+Distance: 1.0
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/chemical-antifungal-and-antibacterial-activity-of-the-essential-oil-from-baccharis-latifolia-from-loja http://ucuenca.edu.ec/resource/author/eduardo-gustavo-valarezo-armijos
+
+Keywords Autor: [Facultad de medicina, Investigación científica, Universidad de Guayaquil]
+Keywords Publication: [Antitumor release, In vitro antitumor activity, PCL electrospun fibers, Titanocene complex]
+Distance: 1.0
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/enhanced-in-vitro-antitumor-activity-of-titanocene-complex-encapsulated-into-polycaprolactone-electrospun http://ucuenca.edu.ec/resource/author/eduardo-gustavo-valarezo-armijos
+
+Keywords Autor: [Facultad de medicina, Investigación científica, Universidad de Guayaquil]
+Keywords Publication: [Trichophyton mentagrophytes, Trichophyton rubrum, Baccharis obtusifolia, Asteraceae, antibacterial activity and antifungal activity, limonene]
+Distance: 1.0
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/chemical-composition-and-biological-activity-of-the-essential-oil-of-baccharis-obtusifolia-kunth-from http://ucuenca.edu.ec/resource/author/eduardo-gustavo-valarezo-armijos
+
+Keywords Autor: [Facultad de medicina, Investigación científica, Universidad de Guayaquil]
+Keywords Publication: [Nanofibers, Amoxicillin, Electrospinning, Poly(?-caprolactone), Poly(lactic acid)]
+Distance: 1.0
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/fabrication-and-characterization-of-blend-electrospun-fibers-loaded-with-amoxicillin-for-tunable http://ucuenca.edu.ec/resource/author/eduardo-gustavo-valarezo-armijos
+
+Keywords Autor: [Facultad de medicina, Investigación científica, Universidad de Guayaquil]
+Keywords Publication: [Trichophyton mentagrophytes, Trichophyton rubrum, Asteraceae, antibacterial activity and antifungal activity, Chromolaena laevigata, laevigatin]
+Distance: 1.0393487157351482
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/biological-activity-and-chemical-composition-of-the-essential-oil-from-chromolaena-laevigata-king-from http://ucuenca.edu.ec/resource/author/eduardo-gustavo-valarezo-armijos
+
+Keywords Autor: [Facultad de medicina, Investigación científica, Universidad de Guayaquil]
+Keywords Publication: [Aromadendrene, Germacrene D, Lamiaceae, Lepechinia paniculata, Scutellaria volubilis]
+Distance: 1.0
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/chemical-composition-of-essential-oils-of-two-species-of-the-lamiaceae-scutellaria-volubilis-and-lepechinia-paniculata-from-ecuador http://ucuenca.edu.ec/resource/author/eduardo-gustavo-valarezo-armijos
+

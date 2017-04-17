@@ -1,0 +1,88 @@
+Keywords Autor: [chicken, health, microscopic, pollution, nitrates, water, fertilizer, research]
+Keywords Publication: [cache, system, instruction, overestimation, exact, real, time, hard, avoiding, wcet, lru]
+Distance: 1.0488858441397693
+ 
+0.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/avoiding-the-wcet-overestimation-on-lru-instruction http://ucuenca.edu.ec/resource/author/juan-melchor-segarra-rojas
+
+ 
+Keywords Autor: [chicken, health, microscopic, pollution, nitrates, water, fertilizer, research]
+Keywords Publication: [small, effective, cache, reuse, memory, data, systems, management, multitasking, real, time]
+Distance: 1.0185104771499804
+ 
+Keywords Autor: [chicken, health, microscopic, pollution, nitrates, water, fertilizer, research]
+Keywords Publication: [cache, code, memory, multitasking, prefetch, locking, combining, real, system, size, systems]
+Distance: 1.044297803038687
+ 
+1.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/combining-prefetch-with-instruction-cache-locking-in-multitasking-real-time http://ucuenca.edu.ec/resource/author/juan-melchor-segarra-rojas
+
+ 
+Keywords Autor: [chicken, health, microscopic, pollution, nitrates, water, fertilizer, research]
+Keywords Publication: [server, large, distributed, storage, video, analysis, distribution, demand, capacity, quality, uniform]
+Distance: 1.04088435272311
+ 
+2.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/analysis-and-placement-of-storage-capacity-in-large-distributed-video http://ucuenca.edu.ec/resource/author/juan-melchor-segarra-rojas
+
+ 
+Keywords Autor: [multiplexed, can, serial, systems, networking, engineering, automotive, communication, embedded, network]
+Keywords Publication: [cluster, treatment, visualization, study, data, dimensional, multi, drug, visual, molecular, human]
+Distance: 1.011618960140324
+ 
+Keywords Autor: [market, assessment, development, study, projects, rubber, legal, project, recycling, plan, economic]
+Keywords Publication: [through, study, modeling, electric, differences, evolution, commonalities, imaging]
+Distance: 1.1130235879078818
+ 
+3.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/electric-imaging-through-modeling-study-of-commonalities-and http://ucuenca.edu.ec/resource/author/pedro-santiago-aguilera-garcía
+
+ 
+Keywords Autor: [market, organizational, study, technical, business, financial, plan, structure]
+Keywords Publication: [comprehend, stress, macro, cad, custom, utilities, soi, layout, effects, high, performance]
+Distance: 1.1238337973770784
+ 
+4.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/cad-utilities-to-comprehend-layout-dependent-stress-effects-in-45-nm-high--performance-soi-custom-macro http://ucuenca.edu.ec/resource/author/víctor-adrián-andrade-cárdenas
+
+ 
+Keywords Autor: [market, organizational, study, technical, business, financial, plan, structure]
+Keywords Publication: [cmos, core, x86, implemented, gating, 32nm, power, soi, 64]
+Distance: 1.066668424186727
+ 
+5.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/an-x86-64-core-implemented-in-32nm-soi http://ucuenca.edu.ec/resource/author/víctor-adrián-andrade-cárdenas
+
+ 
+Keywords Autor: [market, organizational, study, technical, business, financial, plan, structure]
+Keywords Publication: [phase, oscillators, super, systems, chaotic, effect, noise, synchronization, persistent, physical, coupled]
+Distance: 1.1250436226302076
+ 
+6.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/super-persistent-chaotic-transients-in-physical-effect-of-noise-on-phase-synchronization-of-coupled-chaotic http://ucuenca.edu.ec/resource/author/víctor-adrián-andrade-cárdenas
+
+ 
+Keywords Autor: [market, organizational, study, technical, business, financial, plan, structure]
+Keywords Publication: [circuit, technique, soi, error, point, frequency, file, low, optimization, floating, design]
+Distance: 1.2199338552859917
+ 
+7.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/an-x86-64-core-in-32-nm-soi http://ucuenca.edu.ec/resource/author/víctor-adrián-andrade-cárdenas
+
+ 

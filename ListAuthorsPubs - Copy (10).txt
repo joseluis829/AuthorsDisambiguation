@@ -1,0 +1,60 @@
+Keywords Autor: [educational, system, antennas, management, methods, leadership, mechanical, studies, electricity, quality, master]
+Keywords Publication: [pain, modular, resting, organization, patients, back, state, brain, networks, chronic]
+Distance: 1.0924888489919393
+ 
+0.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/modular-organization-of-brain-resting-state-networks-in-chronic-back-pain http://ucuenca.edu.ec/resource/author/pedro-santiago-montoya-balarezo
+
+ 
+Keywords Autor: [wheels, controller, multifunctional, chair, electronic, touch, screen]
+Keywords Publication: [assisted, computer, study, reaction, leading, thdp, lactyl, pathway, ylide, pyruvate, between]
+Distance: 1.0212151223215231
+ 
+1.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/computer-assisted-study-on-the-reaction-between-pyruvate-and-ylide-in-the-pathway-leading-to http://ucuenca.edu.ec/resource/author/omar-santiago-alvarado-cando
+
+ 
+Keywords Autor: [market, business, values, position, research]
+Keywords Publication: [innovation, process, product, virtual, business, data, collaborative, organisation, technology, networks, intelligent]
+Distance: 1.0307880946364827
+ 
+2.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/collaborative-innovation-in-ubiquitous http://ucuenca.edu.ec/resource/author/verónica-serrano
+
+ 
+Keywords Autor: [trade, protection, countries, history, international]
+Keywords Publication: [reference, process, method, organizations, create, model, adapted, heterogeneous]
+Distance: 1.2428170052128937
+ 
+3.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/method-to-create-process-reference-model-adapted-to-heterogeneous http://ucuenca.edu.ec/resource/author/geovanny-osorio-m
+
+ 
+Keywords Autor: [antimicrobial, antioxidant, activity, colletotrichum, cattleya, antibacterial, tryphylla, alloysia, oils, maxima, compounds]
+Keywords Publication: [cloud, shared, citizen, workspace, conservation, science, mobile, live, andes, wildlife]
+Distance: 1.155726773359317
+ 
+4.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/live-mobile-cloud-shared-workspace-for-citizen-science-and-wildlife http://ucuenca.edu.ec/resource/author/andrea-paola-vásquez-alvarez
+
+ 
+Keywords Autor: [antimicrobial, antioxidant, activity, colletotrichum, cattleya, antibacterial, tryphylla, alloysia, oils, maxima, compounds]
+Keywords Publication: [face, collaborative, mobile, phones, learning, supported]
+Distance: 1.2041847571746687
+ 
+5.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/face-to-face-collaborative-learning-supported-by-mobile http://ucuenca.edu.ec/resource/author/andrea-paola-vásquez-alvarez
+
+ 

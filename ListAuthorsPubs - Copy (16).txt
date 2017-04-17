@@ -1,0 +1,1968 @@
+Keywords Autor: [companies, technology, internet, telecommunications]
+Keywords Publication: [substandard, new, method, identify, unlicensed, impact, phones, imei, cell, network, quality]
+Distance: 0.9325382606339834
+ 
+Keywords Autor: [companies, technology, internet, telecommunications]
+Keywords Publication: [gsm, umts, 2100, existence, interference, analysis, co, 1900]
+Distance: 0.885125158430849
+ 
+Keywords Autor: [superior, management, service, health, diploma, services, quality, care]
+Keywords Publication: [small, stool, copyright, controls, tested, rural, numbers, american, collected, campylobacter, accounted]
+Distance: 1.1548355883088262
+ 
+0.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/identifying-etiological-agents-causing-diarrhea-in-low-income-ecuadorian http://ucuenca.edu.ec/resource/author/martha-de-fátima-eguiguren-eguiguren
+
+ 
+Keywords Autor: [trade, comex, cosmesticos, import, technical, regulations, tax, tariffs]
+Keywords Publication: [allocation, access, decision, waiting, resource, simulation, logistics, platform, operator, discrete, improving]
+Distance: 1.1522790289937095
+ 
+1.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/improving-service-of-access-on-logistics http://ucuenca.edu.ec/resource/author/martha-elizabeth-garzón-aguirre
+
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [adaptive, environment, awareness, resource, management, web, documents, piñas, technology, cooperative, group]
+Distance: 0.9883757896682976
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [based, resource, environments, discovery, collaborative, pervasive, ontology]
+Distance: 1.0676557460636333
+ 
+2.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/ontology-based-resource-discovery-in-pervasive-collaborative http://ucuenca.edu.ec/resource/author/sonia-magdalena-mendoza-colimba
+
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [shared, resource, within, environments, collaborative, recognition, availability, aware, environment, computing, face]
+Distance: 1.0514276264274633
+ 
+3.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/shared-resource-availability-within-ubiquitous-collaboration http://ucuenca.edu.ec/resource/author/sonia-magdalena-mendoza-colimba
+
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [semantic, shared, resource, discovery, approach]
+Distance: 1.1230963013523991
+ 
+4.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/semantic-approach-to-shared-resource http://ucuenca.edu.ec/resource/author/sonia-magdalena-mendoza-colimba
+
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [computing, within, provider, service, discovery, interaction, areas, autonomous, nomadic, user, cooperation]
+Distance: 1.1300160722402128
+ 
+5.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/nomadic-user-within-autonomous http://ucuenca.edu.ec/resource/author/sonia-magdalena-mendoza-colimba
+
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [authored, adaptive, documents, web, technology, distribution, co, support]
+Distance: 1.114574839157185
+ 
+6.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/adaptive-distribution-support-for-co-authored-documents-on-the http://ucuenca.edu.ec/resource/author/sonia-magdalena-mendoza-colimba
+
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [web, collaborative, piñas, writing, distributed, supporting, community, co, authors, middleware, architecture]
+Distance: 1.1474089843786417
+ 
+7.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/supporting-community-of-co-authors-on-the http://ucuenca.edu.ec/resource/author/sonia-magdalena-mendoza-colimba
+
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [resource, discovery, collaborative, work, supporting]
+Distance: 1.1444632815282836
+ 
+8.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/resource-discovery-for-supporting-ubiquitous-collaborative http://ucuenca.edu.ec/resource/author/sonia-magdalena-mendoza-colimba
+
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [environment, realistic, efficient, web, infrastructure, work, service, distributed, nomadic, user, cooperative]
+Distance: 1.0088872127988404
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [environment, authoring, flexible, web, documents, service, technology, distribution, co]
+Distance: 1.0878388612394998
+ 
+9.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/flexible-distribution-service-for-co-authoring-environment-on-the http://ucuenca.edu.ec/resource/author/sonia-magdalena-mendoza-colimba
+
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [based, implementing, distributed, specification, real, java, framework, system, application, satisfiability, time]
+Distance: 1.0869084950497623
+ 
+10.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/java-based-framework-for-implementing-soft-real-time-distributed http://ucuenca.edu.ec/resource/author/sonia-magdalena-mendoza-colimba
+
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [resource, systems, collaborative, aggregation, support, p2p]
+Distance: 1.1589571833109544
+ 
+11.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/support-for-resource-aggregation-in-collaborative-p2p http://ucuenca.edu.ec/resource/author/sonia-magdalena-mendoza-colimba
+
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [cortex, through, scars, mri, finding, analysis, intensities, sequences, t2, cerebral]
+Distance: 1.1461177735016739
+ 
+12.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/finding-scars-in-the-cerebral-cortex-through-the-analysis-of-intensities-in http://ucuenca.edu.ec/resource/author/sonia-magdalena-mendoza-colimba
+
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [through, cluster, task, systems, migration, fault, mechanism, heterogeneous, tolerance, multi]
+Distance: 1.0330554359080897
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [through, face, devices, collaboration, mobile, dynamic, supporting, arrays]
+Distance: 1.1114844634512722
+ 
+13.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/supporting-face-to-face-collaboration-through-dynamic-arrays-of-mobile http://ucuenca.edu.ec/resource/author/sonia-magdalena-mendoza-colimba
+
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [voice, based, biometrics, using, face, flexible, recognizing, collaborators, approach]
+Distance: 1.1134868170486878
+ 
+14.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/recognizing-collaborators-using-flexible-approach-based-on-face-and-voice http://ucuenca.edu.ec/resource/author/sonia-magdalena-mendoza-colimba
+
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [based, semantic, resource, service, discovery, restrictions, matchmaking, user]
+Distance: 1.0918178544600856
+ 
+15.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/user-restrictions-based-semantic-matchmaking-service-for-resource http://ucuenca.edu.ec/resource/author/sonia-magdalena-mendoza-colimba
+
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [midblocks, reliable, environments, supervising, intelligent, middleware]
+Distance: 1.0318523600611027
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [based, wide, work, concept, distributed, rule, adaptive, environment, world, awareness, web]
+Distance: 1.079958837374646
+ 
+16.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/distributed-event-service-for-adaptive-group http://ucuenca.edu.ec/resource/author/sonia-magdalena-mendoza-colimba
+
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [flexible, bimodal, environments, recognition, collaborators, pervasive]
+Distance: 0.988839911496857
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [based, shared, access, documents, control, distribution]
+Distance: 1.2406967338310047
+ 
+17.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/access-control-based-distribution-of-shared http://ucuenca.edu.ec/resource/author/sonia-magdalena-mendoza-colimba
+
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [resource, environments, model, ontological, pervasive, sharing]
+Distance: 1.1112793393170686
+ 
+18.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/an-ontological-model-for-resource-sharing-in-pervasive http://ucuenca.edu.ec/resource/author/sonia-magdalena-mendoza-colimba
+
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [settings, resource, discovery, matchmaking, user, algorithm, multi]
+Distance: 1.1600270436696625
+ 
+19.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/matchmaking-algorithm-for-resource-discovery-in-multi-user http://ucuenca.edu.ec/resource/author/sonia-magdalena-mendoza-colimba
+
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [area, organizational, based, within, environments, collaborative, work, recognition, network, cooperative, face]
+Distance: 1.077212261757325
+ 
+20.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/area-based-collaborative-ubiquitous-work-within-organizational http://ucuenca.edu.ec/resource/author/sonia-magdalena-mendoza-colimba
+
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [contextual, based, wide, system, world, awareness, proximity, web, coauthoring, communication, internet]
+Distance: 1.1255893980235574
+ 
+21.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/contextual-awareness-based-communication-and-coauthoring-proximity-in-the http://ucuenca.edu.ec/resource/author/sonia-magdalena-mendoza-colimba
+
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [locating, available, mobile, resources, collaborators, determining, closest]
+Distance: 1.148956396247408
+ 
+22.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/determining-and-locating-the-closest-available-resources-to-mobile http://ucuenca.edu.ec/resource/author/sonia-magdalena-mendoza-colimba
+
+ 
+Keywords Autor: [treatment, industrial, reactor, plant, effluents, biological, industry, food]
+Keywords Publication: [face, f2fmi, toolkit, mobile, interaction, facilitating]
+Distance: 1.0846179785741785
+ 
+23.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/toolkit-for-facilitating-face-to-face-mobile http://ucuenca.edu.ec/resource/author/sonia-magdalena-mendoza-colimba
+
+ 
+Keywords Autor: [planning, strategic, foundation, donum]
+Keywords Publication: [pp, product, irreducible, indexation, tensor, representation, n, symmetric, kronecker, s, schur]
+Distance: 1.0992613790292824
+ 
+24.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/on-the-kronecker-product http://ucuenca.edu.ec/resource/author/rosa-orellana-amaya
+
+ 
+Keywords Autor: [planning, strategic, foundation, donum]
+Keywords Publication: [equal, graphs, functions, chromatic, symmetric]
+Distance: 1.4081333533540725
+ 
+25.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/graphs-with-equal-chromatic-symmetric http://ucuenca.edu.ec/resource/author/rosa-orellana-amaya
+
+ 
+Keywords Autor: [planning, strategic, foundation, donum]
+Keywords Publication: [functions, symmetries, coefficients, rectangular, symmetric]
+Distance: 1.3015920936192649
+ 
+26.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/rectangular-symmetries-for-coefficients-of-symmetric http://ucuenca.edu.ec/resource/author/rosa-orellana-amaya
+
+ 
+Keywords Autor: [planning, strategic, foundation, donum]
+Keywords Publication: [saturation, conjecture, kronecker, examples, reduced, coefficients, mulmuley's, counter]
+Distance: 1.2105656064334833
+ 
+27.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/reduced-kronecker-coefficients-and-counter-examples-to-saturation-conjecture-sh http://ucuenca.edu.ec/resource/author/rosa-orellana-amaya
+
+ 
+Keywords Autor: [internal, agent, financial, project, investment, political, health, control, tax, accounting, indicators]
+Keywords Publication: [heat, based, diffusion, feature, scans, body, analysis, approach]
+Distance: 1.1473760735056573
+ 
+28.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/heat-diffusion-approach-for-feature-based-body-scans http://ucuenca.edu.ec/resource/author/christian-fernando-lovato-duque
+
+ 
+Keywords Autor: [internal, agent, financial, project, investment, political, health, control, tax, accounting, indicators]
+Keywords Publication: [visualization, data, pose, interactive, automatic, whole, body, measurement, tool, estimation, evaluation]
+Distance: 1.087838523328431
+ 
+29.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/computer-assisted-estimation-of-anthropometric-parameters-from-whole-body-scanner http://ucuenca.edu.ec/resource/author/christian-fernando-lovato-duque
+
+ 
+Keywords Autor: [internal, agent, financial, project, investment, political, health, control, tax, accounting, indicators]
+Keywords Publication: [radial, graphs, symmetry, approximate, spherical, centers]
+Distance: 1.4230871510591154
+ 
+30.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/centers-of-approximate-spherical-symmetry-and-radial-symmetry http://ucuenca.edu.ec/resource/author/christian-fernando-lovato-duque
+
+ 
+Keywords Autor: [internal, agent, financial, project, investment, political, health, control, tax, accounting, indicators]
+Keywords Publication: [using, data, curve, automatic, active, whole, body, analysis, contour, consistency, skeleton]
+Distance: 1.18028559897247
+ 
+31.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/automatic-segmentation-of-scanned-human-body-using-curve-skeleton http://ucuenca.edu.ec/resource/author/christian-fernando-lovato-duque
+
+ 
+Keywords Autor: [internal, agent, financial, project, investment, political, health, control, tax, accounting, indicators]
+Keywords Publication: [area, radial, detection, transform, shape, symmetry, projection, multiscale, characterization]
+Distance: 1.2847931109922026
+ 
+32.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/radial-symmetry-detection-and-shape-characterization-with-the-multiscale-area-projection http://ucuenca.edu.ec/resource/author/christian-fernando-lovato-duque
+
+ 
+Keywords Autor: [internal, agent, financial, project, investment, political, health, control, tax, accounting, indicators]
+Keywords Publication: [scans, anatomical, automatic, labelling, landmarks, body]
+Distance: 1.2936352934417779
+ 
+33.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/automatic-labelling-of-anatomical-landmarks-on-3d-body http://ucuenca.edu.ec/resource/author/christian-fernando-lovato-duque
+
+ 
+Keywords Autor: [internal, agent, financial, project, investment, political, health, control, tax, accounting, indicators]
+Keywords Publication: [estimation, models, robust, scanned, fat, automatic, body, human, measurement]
+Distance: 1.0874877613245473
+ 
+34.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/robust-automatic-measurement-of-3d-scanned-models-for-the-human-body-fat http://ucuenca.edu.ec/resource/author/christian-fernando-lovato-duque
+
+ 
+Keywords Autor: [monolith, scott's, mualem's, model, hysteresis]
+Keywords Publication: [optimal, reservoirs, spline, membership, problem, optimization, function, stochastic, dynamic, model, multipurpose]
+Distance: 0.9763941549616355
+ 
+Keywords Autor: [monolith, scott's, mualem's, model, hysteresis]
+Keywords Publication: [functional, modeling, accurate, soil, penetrating, content, wave, frequency, feedback, conductivity, function]
+Distance: 0.9714477084275065
+ 
+Keywords Autor: [monolith, scott's, mualem's, model, hysteresis]
+Keywords Publication: [surface, gpr, soil, water, content, thin, estimation, inversion, layers, presence, signal]
+Distance: 0.9896450733588572
+ 
+Keywords Autor: [ceramic, aesthetic, through, art, sculptural, offense, transgression, advertising, portrait, legends, cartoons]
+Keywords Publication: [using, making, decision, segmentation, approaches, signal, fuzzy, combination]
+Distance: 1.1593727105265772
+ 
+35.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/combination-of-signal-segmentation-approaches-using-fuzzy-decision http://ucuenca.edu.ec/resource/author/javier-omar-escudero-arciniegas
+
+ 
+Keywords Autor: [ceramic, aesthetic, through, art, sculptural, offense, transgression, advertising, portrait, legends, cartoons]
+Keywords Publication: [based, algorithms, study, neural, comparative, diagnosis, ensemble, training, network, via, improved]
+Distance: 1.1374728048285716
+ 
+36.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/comparative-study-of-breast-cancer-diagnosis-based-on-neural-network-ensemble-via-improved-training http://ucuenca.edu.ec/resource/author/javier-omar-escudero-arciniegas
+
+ 
+Keywords Autor: [ceramic, aesthetic, through, art, sculptural, offense, transgression, advertising, portrait, legends, cartoons]
+Keywords Publication: [evaluation, complexity, entropies, disease, resting, alzheimer's, multivariate, magnetoencephalogram, state, multiscale, sample]
+Distance: 1.077852116175999
+ 
+37.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/evaluation-of-resting-state-magnetoencephalogram-complexity-in-disease-with-multivariate-multiscale-permutation-and-sample http://ucuenca.edu.ec/resource/author/javier-omar-escudero-arciniegas
+
+ 
+Keywords Autor: [ceramic, aesthetic, through, art, sculptural, offense, transgression, advertising, portrait, legends, cartoons]
+Keywords Publication: [output, average, complexity, delay, connectivity, mean, effect, model, electroencephalograms, kuramoto]
+Distance: 1.0785167172515815
+ 
+38.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/effect-of-the-average-delay-and-mean-connectivity-of-the-kuramoto-model-on-the-complexity-of-the-output http://ucuenca.edu.ec/resource/author/javier-omar-escudero-arciniegas
+
+ 
+Keywords Autor: [ceramic, aesthetic, through, art, sculptural, offense, transgression, advertising, portrait, legends, cartoons]
+Keywords Publication: [comparison, memory, eeg, binding, approaches, during, analysis, network, connectivity, visual, short]
+Distance: 1.0903612063028891
+ 
+39.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/comparison-of-network-analysis-approaches-on-eeg-connectivity-in-beta-during-visual-short-term-memory-binding http://ucuenca.edu.ec/resource/author/javier-omar-escudero-arciniegas
+
+ 
+Keywords Autor: [ceramic, aesthetic, through, art, sculptural, offense, transgression, advertising, portrait, legends, cartoons]
+Keywords Publication: [cluster, binarising, functional, connectivity, unbiased, threshold, complete, networks, analysis, weighted, span]
+Distance: 1.169529217663003
+ 
+40.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/cluster-span-an-unbiased-threshold-for-binarising-weighted-complete-networks-in-functional-connectivity http://ucuenca.edu.ec/resource/author/javier-omar-escudero-arciniegas
+
+ 
+Keywords Autor: [ceramic, aesthetic, through, art, sculptural, offense, transgression, advertising, portrait, legends, cartoons]
+Keywords Publication: [finger, development, independent, dexterous, movements, training, robotic, amputee, highly, hand]
+Distance: 1.0979220671172607
+ 
+41.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/development-of-highly-dexterous-robotic-hand-with-independent-finger-movements-for-amputee http://ucuenca.edu.ec/resource/author/javier-omar-escudero-arciniegas
+
+ 
+Keywords Autor: [ceramic, aesthetic, through, art, sculptural, offense, transgression, advertising, portrait, legends, cartoons]
+Keywords Publication: [finger, limb, using, signals, dexterous, upper, prosthesis, movements, control, classification, emg]
+Distance: 1.025104323867142
+ 
+Keywords Autor: [ceramic, aesthetic, through, art, sculptural, offense, transgression, advertising, portrait, legends, cartoons]
+Keywords Publication: [based, blind, disease, alzheimer's, patients, magnetoencephalogram, source, classification, improvement, extraction, frequency]
+Distance: 1.164067628820085
+ 
+42.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/assessment-of-classification-improvement-in-patients-with-disease-based-on-magnetoencephalogram-blind-source http://ucuenca.edu.ec/resource/author/javier-omar-escudero-arciniegas
+
+ 
+Keywords Autor: [ceramic, aesthetic, through, art, sculptural, offense, transgression, advertising, portrait, legends, cartoons]
+Keywords Publication: [improved, entropy, application, interpretation, recordings, multiscale, analysis, biomedical, signal, electroencephalogram, permutation]
+Distance: 1.0782730931470481
+ 
+43.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/improved-multiscale-permutation-entropy-for-biomedical-signal-interpretation-and-application-to-electroencephalogram http://ucuenca.edu.ec/resource/author/javier-omar-escudero-arciniegas
+
+ 
+Keywords Autor: [ceramic, aesthetic, through, art, sculptural, offense, transgression, advertising, portrait, legends, cartoons]
+Keywords Publication: [aware, amplitude, detection, entropy, segmentation, illustration, signal, permutation, spike]
+Distance: 1.1367553916943074
+ 
+44.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/amplitude-aware-permutation-illustration-in-spike-detection-and-signal http://ucuenca.edu.ec/resource/author/javier-omar-escudero-arciniegas
+
+ 
+Keywords Autor: [ceramic, aesthetic, through, art, sculptural, offense, transgression, advertising, portrait, legends, cartoons]
+Keywords Publication: [auto, disease, mutual, activity, alzheimer's, background, patients, magnetoencephalogram, information, analysis]
+Distance: 1.164067628820085
+ 
+45.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/analysis-of-the-magnetoencephalogram-background-activity-in-disease-patients-with-auto-mutual http://ucuenca.edu.ec/resource/author/javier-omar-escudero-arciniegas
+
+ 
+Keywords Autor: [ceramic, aesthetic, through, art, sculptural, offense, transgression, advertising, portrait, legends, cartoons]
+Keywords Publication: [standard, based, entropy, refined, deviation, multiscale, analysis, biomedical, signal, fuzzy]
+Distance: 1.1590254977763055
+ 
+46.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/refined-multiscale-fuzzy-entropy-based-on-standard-deviation-for-biomedical-signal http://ucuenca.edu.ec/resource/author/javier-omar-escudero-arciniegas
+
+ 
+Keywords Autor: [ceramic, aesthetic, through, art, sculptural, offense, transgression, advertising, portrait, legends, cartoons]
+Keywords Publication: [through, promoting, living, social, patients, training, best, practices, network, livewell, healthy]
+Distance: 1.1099599507421942
+ 
+47.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/livewell-promoting-healthy-living-and-wellbeing-for-parkinson-patients-through-social-network-and-ict-lessons-learnt-and-best http://ucuenca.edu.ec/resource/author/javier-omar-escudero-arciniegas
+
+ 
+Keywords Autor: [ceramic, aesthetic, through, art, sculptural, offense, transgression, advertising, portrait, legends, cartoons]
+Keywords Publication: [auto, disease, alzheimer's, approximate, patients, scale, analysis, nonlinear, electroencephalogram, entropy, mutual]
+Distance: 1.1065513388006685
+ 
+48.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/approximate-entropy-and-auto-mutual-information-analysis-of-the-electroencephalogram-in-disease http://ucuenca.edu.ec/resource/author/javier-omar-escudero-arciniegas
+
+ 
+Keywords Autor: [ceramic, aesthetic, through, art, sculptural, offense, transgression, advertising, portrait, legends, cartoons]
+Keywords Publication: [usefulness, spectral, study, activity, alzheimer's, accuracy, range, scale, long, out, leave]
+Distance: 1.1359482704991082
+ 
+49.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/study-on-the-possible-usefulness-of-detrended-fluctuation-analysis-of-the-electroencephalogram-background-activity-in http://ucuenca.edu.ec/resource/author/javier-omar-escudero-arciniegas
+
+ 
+Keywords Autor: [ceramic, aesthetic, through, art, sculptural, offense, transgression, advertising, portrait, legends, cartoons]
+Keywords Publication: [activity, independent, data, line, magnetoencephalogram, analysis, frequency, artifact, synthetic, component, spectrum]
+Distance: 1.1753288147479244
+ 
+50.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/artifact-removal-in-magnetoencephalogram-background-activity-with-independent-component http://ucuenca.edu.ec/resource/author/javier-omar-escudero-arciniegas
+
+ 
+Keywords Autor: [ceramic, aesthetic, through, art, sculptural, offense, transgression, advertising, portrait, legends, cartoons]
+Keywords Publication: [based, effective, detection, cost, disease, method, alzheimer's, machine, learning, personalized]
+Distance: 1.1874928403347589
+ 
+51.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/machine-learning-based-method-for-personalized-and-cost-effective-detection-of http://ucuenca.edu.ec/resource/author/javier-omar-escudero-arciniegas
+
+ 
+Keywords Autor: [ceramic, aesthetic, through, art, sculptural, offense, transgression, advertising, portrait, legends, cartoons]
+Keywords Publication: [spectral, disease, linear, activity, alzheimer's, ziv, patients, subjects, one, cross, control]
+Distance: 1.1737808404015806
+ 
+52.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/spectral-and-nonlinear-analyses-of-meg-background-activity-in-patients-with http://ucuenca.edu.ec/resource/author/javier-omar-escudero-arciniegas
+
+ 
+Keywords Autor: [ceramic, aesthetic, through, art, sculptural, offense, transgression, advertising, portrait, legends, cartoons]
+Keywords Publication: [finger, surface, electromyography, dexterous, prosthesis, movements, control, classification, hand]
+Distance: 1.0583932132657246
+ 
+53.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/classification-of-finger-movements-for-the-dexterous-hand-prosthesis-control-with-surface http://ucuenca.edu.ec/resource/author/javier-omar-escudero-arciniegas
+
+ 
+Keywords Autor: [innovation, environmental, poisoning, management, therapy, comunidades, rurales, health, risk, plagicidas]
+Keywords Publication: [realist, year, occupational, implementation, health, analysis, tool, weapon, system, white, information]
+Distance: 0.8013328763117731
+ 
+Keywords Autor: [disorders, childhood, children, speaks, medicine, language, pediatric]
+Keywords Publication: [usability, methodologies, review, techniques, systematic, agile]
+Distance: 1.119213804088993
+ 
+54.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/systematic-review-of-usability-techniques-in-agile http://ucuenca.edu.ec/resource/author/carolina-tania-salvador-mora
+
+ 
+Keywords Autor: [strategic, corporate, social, responsibility, management, competitiveness, stakeholders]
+Keywords Publication: [planning, development, study, projects, software, advocacy, case, inspection]
+Distance: 0.8973788817892374
+ 
+Keywords Autor: [strategic, corporate, social, responsibility, management, competitiveness, stakeholders]
+Keywords Publication: [small, development, companies, code, software, metric, ecuadorian]
+Distance: 0.9805887681372375
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [junction, extent, findings, three, when, segment, prospective, mucosal, based, im, gastroesophageal]
+Distance: 1.0784021620030997
+ 
+55.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/prevalence-of-esophagus-by-endoscopy-and-histological-prospective-evaluation-of-306-control-subjects-and-376-patients-with-symptoms-of-gastroesophageal-reflux http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [histologic, occurs, when, years, without, observed, evaluation, dysplasia, routinely, four, presence]
+Distance: 1.1459688097917342
+ 
+56.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/comparison-of-endoscopic-and-functional-findings-in-patients-with-intestinal-metaplasia-of-the-carditis-and-short-segment-columnar-epithelium-of-the-distal-esophagus-with-and-without-intestinal-metaplasia http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [88, gastrooesophageal, considered, cent, upper, biopsies, had, fundoplication, years, without, objective]
+Distance: 1.0851412600614285
+ 
+57.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/late-results-of-randomized-clinical-trial-comparing-total-fundoplication-versus-calibration-of-the-cardia-with-posterior-gastropexy http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [upper, seven, during, trial, years, monitored, later, late, options, surgical, eighty]
+Distance: 1.2440494363705132
+ 
+58.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/prospective-randomized-study-comparing-d2-total-gastrectomy-versus-d2-total-gastrectomy-plus-splenectomy-in-187-patients-with-gastric http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [1?, steatohepatitis, increased, il, disease, production, alcoholic, liver, e, stimulated, patients]
+Distance: 1.0597550310469714
+ 
+59.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/increased-production-of-and-in-lipopolysaccharide-stimulated-blood-from-obese-patients-with-non-alcoholic-fatty-liver-disease http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [been, smaller, nonoperated, data, malignancy, lesions, ultrasonography, several, undergoing, seven, none]
+Distance: 1.0526792277809773
+ 
+60.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/late-follow-up-of-polypoid-lesions-of-the-gallbladder-smaller-than-10 http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [junction, extent, reports, been, had, squamocolumnar, three, endoscopically, coincided, objective, observed]
+Distance: 1.1046251287797046
+ 
+61.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/and-functional-studies-in-408-patients-with-compared-to-174-cases-of-intestinal-metaplasia-of-the http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [junction, extent, findings, three, when, segment, prospective, mucosal, based, im, gastroesophageal]
+Distance: 1.0784021620030997
+ 
+62.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/prevalence-of-esophagus-by-endoscopy-and-histologic-prospective-evaluation-of-306-control-subjects-and-376-patients-with-symptoms-of-gastroesophageal http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [histologic, occurs, when, years, without, observed, evaluation, dysplasia, routinely, four, presence]
+Distance: 1.1459688097917342
+ 
+63.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/comparison-of-endoscopic-and-functional-findings-in-patients-with-intestinal-metaplasia-at-the-carditis-and-short-segment-columnar-epithelium-of-the-distal-esophagus-with-and-without-intestinal http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [88, gastrooesophageal, considered, cent, upper, biopsies, had, fundoplication, years, without, objective]
+Distance: 1.0851412600614285
+ 
+64.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/late-results-of-randomized-clinical-trial-comparing-total-fundoplication-versus-calibration-of-the-cardia-with-posterior http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [histologic, year, improves, fundoplication, without, years, objective, dysplasia, output, appeared, incompetence]
+Distance: 1.1147862170740903
+ 
+65.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/early-and-late-results-of-the-acid-suppression-and-duodenal-diversion-operation-in-patients-with-analysis-of-210 http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [hematoxylin, during, three, evaluation, dysplasia, alcian, evaluated, presence, exhibit, 10, based]
+Distance: 1.060827838506933
+ 
+66.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/prevalence-of-intestinal-metaplasia-according-to-the-length-of-the-specialized-columnar-epithelium-lining-the-distal-esophagus-in-patients-with-gastroesophageal http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [gastric, e, patients, resection, plus, bypass, excluded, distal, segment, gastrectomy, morbid]
+Distance: 1.145934950242502
+ 
+67.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/results-of-gastric-bypass-plus-resection-of-the-distal-excluded-gastric-segment-in-patients-with-morbid-obesity http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [stress, steatohepatitis, disease, liver, alcoholic, e, patients, non, related, fatty, oxidative]
+Distance: 1.1415129155303283
+ 
+68.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/oxidative-stress-related-parameters-in-the-liver-of-non-alcoholic-fatty-liver-disease-patients http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [gastric, e, patients, resection, plus, bypass, excluded, distal, segment, gastrectomy, morbid]
+Distance: 1.145934950242502
+ 
+69.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/results-of-gastric-bypass-plus-resection-of-the-distal-excluded-gastric-segment-in-patients-with-morbid http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [expenditure, gastric, resting, e, changes, weight, en, body, cardiovascular, factors, bypass]
+Distance: 1.0262382205885208
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [expenditure, gastric, resting, e, changes, weight, en, body, cardiovascular, factors, bypass]
+Distance: 1.0262382205885208
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [adiponectin, gastric, density, e, bariatric, patients, changes, morbidly, bone, body, obese]
+Distance: 1.1142382247592173
+ 
+70.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/changes-in-bone-mineral-body-composition-and-adiponectin-levels-in-morbidly-obese-patients-after-bariatric http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [stress, steatohepatitis, disease, liver, alcoholic, e, patients, non, related, fatty, oxidative]
+Distance: 1.1415129155303283
+ 
+71.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/oxidative-stress-related-parameters-in-the-liver-of-non-alcoholic-fatty-liver-disease http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [inhibitors, reports, been, quickly, used, type, drug, setting, problem, appeared, represented]
+Distance: 1.1691139435373759
+ 
+72.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/oral-ulcers-produced-by-mycophenolate-mofetil-in-two-liver-transplant http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [1?, steatohepatitis, increased, il, disease, production, alcoholic, liver, e, stimulated, patients]
+Distance: 1.0597550310469714
+ 
+73.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/increased-production-of-and-in-lipopolysaccharide-stimulated-blood-from-obese-patients-with-non-alcoholic-fatty-liver http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [blot, markedly, nonobese, controls, shift, laparoscopic, binding, toll, obese, major, fatty]
+Distance: 1.0856604162081822
+ 
+74.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/liver-and-ap-1-dna-binding-in-obese-patients http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [blot, markedly, nonobese, controls, shift, laparoscopic, binding, toll, obese, major, fatty]
+Distance: 1.0856604162081822
+ 
+75.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/liver-and-ap-1-dna-binding-in-obese http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [depletion, insulin, ppar, binding, enhancement, obese, long, acid, 1c, proliferator, fatty]
+Distance: 1.1255496718985494
+ 
+76.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/enhancement-in-liver-ratio-and-steatosis-in-obese-correlations-with-insulin-resistance-and-n-3-long-chain-polyunsaturated-fatty-acid http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [laparoscopy, resectional, gastric, e, patients, laparoscopic, experience, resection, consecutive, bypass, 112]
+Distance: 1.1005762168784121
+ 
+77.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/laparoscopic-resectional-gastric-bypass-in-patients-with-morbid-experience-on-112-consecutive-patients http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [laparoscopy, resectional, gastric, e, patients, laparoscopic, experience, resection, consecutive, bypass, 112]
+Distance: 1.1005762168784121
+ 
+78.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/laparoscopic-resectional-gastric-bypass-in-patients-with-morbid-experience-on-112-consecutive http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [months, gastric, e, en, bypass, trace, inflammation, roux, y, iron, copper]
+Distance: 1.2242459740039446
+ 
+79.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/trace-element-status-and-inflammation-parameters-after-months-of-roux-en-y-gastric http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [associations, concentrations, gastric, year, e, one, changes, weight, non, food, bypass]
+Distance: 1.102379814649169
+ 
+80.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/changes-in-ghrelin-concentrations-one-year-after-resective-and-non-resective-gastric-associations-with-weight-loss-and-energy-and-macronutrient http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [alopecia, e, bariatric, severe, iron, morbid, zinc, obesity, undergo, women, who]
+Distance: 1.0649267076306976
+ 
+81.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/alopecia-en-mujeres-con-obesidad-severa-sometidas http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [alopecia, e, bariatric, severe, iron, morbid, zinc, obesity, undergo, women, who]
+Distance: 1.0649267076306976
+ 
+82.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/alopecia-in-women-with-severe-and-morbid-obesity-who-undergo-bariatric http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [ancestral, environmental, management, dissertations, protective, forests, practices]
+Keywords Publication: [gastric, year, e, bariatric, undergoing, evolution, second, bypass, sleeve, nutritional, iron]
+Distance: 1.0832481897900768
+ 
+83.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/evolution-of-the-intake-and-nutritional-status-of-iron-and-copper-in-women-undergoing-bariatric-surgery-until-the-second-year-after http://ucuenca.edu.ec/resource/author/jorge-luis-rojas-vivanco
+
+ 
+Keywords Autor: [blind, p.e, disability, cologne, football, holiday, child]
+Keywords Publication: [through, process, joint, angles, e, during, analysis, down, hip, knee, labview]
+Distance: 1.2131208225490715
+ 
+84.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/acquisition-and-analysis-of-angles-between-the-hip-and-knee-during-the-sit-up-process-through-the-kinect http://ucuenca.edu.ec/resource/author/juan-carlos-carreño-barrera
+
+ 
+Keywords Autor: [cameras, security, system, video, internship]
+Keywords Publication: [based, models, semantic, features, latent, classifier, automatic, mental, text, comprehension]
+Distance: 1.1495914964712808
+ 
+85.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/an-automatic-text-comprehension-classifier-based-on-mental-models-and-latent-semantic http://ucuenca.edu.ec/resource/author/patricio-vicente-moya-londoño
+
+ 
+Keywords Autor: [impacted, including, technical, clark, dentistry, radiology, parts]
+Keywords Publication: [hospitalization, patients, mobile, technology, follow, via, telecommunications, engaging, phone, telehealth, assist]
+Distance: 1.1160350929598166
+ 
+86.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/engaging-patients-via-mobile-phone-technology-to-assist-follow-up-after-hospitalization-in http://ucuenca.edu.ec/resource/author/marco-patricio-ochoa-rogel
+
+ 
+Keywords Autor: [computer, communication, direction, animation]
+Keywords Publication: [arid, simulator, data, optimal, initial, simulation, experimental, reverse, osmosis, design, dynamic]
+Distance: 0.9309351224098346
+ 
+Keywords Autor: [processes, institutional, management, administration, lifting, processing, tax, philosophy]
+Keywords Publication: [functional, equivalence, development, modeling, software, linking, implementation, graphical, specification, conceptual, formal]
+Distance: 0.9888215693745137
+ 
+Keywords Autor: [dispositivos, devices, mobile, electrical, programacion, networks]
+Keywords Publication: [role, use, facebook, investigating, neuroticism, extraversion, symptomatology, depressive, youth]
+Distance: 1.1110922885564392
+ 
+87.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/facebook-use-and-depressive-investigating-the-role-of-neuroticism-and-extraversion-in http://ucuenca.edu.ec/resource/author/iván-geovanny-vargas-proaño
+
+ 
+Keywords Autor: [gestión, ambiental, orgánica, podocarpus, cóndor, agricultura, reserva]
+Keywords Publication: [floral, orchidaceae, e, three, pollinators, both, factors, influence, flower, biotic, orchids]
+Distance: 0.9902906255250294
+ 
+Keywords Autor: [law, ecuadorian, children, disability, civil, under, age]
+Keywords Publication: [image, programmable, bilinear, demosaicking, color, implementation, quality, interpolation, fpga, field, array]
+Distance: 1.174350573107244
+ 
+88.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/fpga-implementation-of-the-bilinear-interpolation-algorithm-for-image http://ucuenca.edu.ec/resource/author/guillermo-yánez-narváez
+
+ 
+Keywords Autor: [emeralds, horacio, children, writing, reading, language, girls, drouet, communication, comprehensive, calderon]
+Keywords Publication: [stories, design, about, credibility, history]
+Distance: 1.1481214743857724
+ 
+89.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/credibility-of-stories-about-design http://ucuenca.edu.ec/resource/author/vicente-elías-soto-ramírez
+
+ 
+Keywords Autor: [earnings, cost, system, shrimp, lost, roles, accounting, austromar, sales]
+Keywords Publication: [damage, game, study, memory, usability, patients, mobile, brain, preliminary, acquired]
+Distance: 1.1065491860418286
+ 
+90.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/mobile-memory-game-for-patients-with-acquired-brain-preliminary-usability http://ucuenca.edu.ec/resource/author/rosa-angélica-yánez-arias
+
+ 
+Keywords Autor: [licenses, educational, web, repositories, patents, resources, creative, commons, open]
+Keywords Publication: [ocw, social, collaborative, course, ware, learning, support, open]
+Distance: 1.0144352368397527
+ 
+Keywords Autor: [andino, processes, hydrology, deuterium, stable, isotopes, 18, paramo, oxygen, hydrological]
+Keywords Publication: [extent, processes, e, topography, runoff, andes, tropical, increases, wetlands, grasslands, areal]
+Distance: 1.000082499178451
+ 
+Keywords Autor: [virtual, social, narrative, show, messages, videos, media, communication, networks]
+Keywords Publication: [complexity, hypersurface, determinantal, lower, bound]
+Distance: 1.080747775297674
+ 
+91.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/lower-bound-for-the-determinantal-complexity-of http://ucuenca.edu.ec/resource/author/mauricio-gabriel-velasco-andrade
+
+ 
+Keywords Autor: [virtual, social, narrative, show, messages, videos, media, communication, networks]
+Keywords Publication: [codes, polytopes, dual, toric, one, degree]
+Distance: 1.0746971528379252
+ 
+92.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/dual-toric-codes-and-polytopes-of-degree http://ucuenca.edu.ec/resource/author/mauricio-gabriel-velasco-andrade
+
+ 
+Keywords Autor: [virtual, social, narrative, show, messages, videos, media, communication, networks]
+Keywords Publication: [sets, convex, real, linearization, functors]
+Distance: 1.1206566347500084
+ 
+93.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/linearization-functors-on-real-convex http://ucuenca.edu.ec/resource/author/mauricio-gabriel-velasco-andrade
+
+ 
+Keywords Autor: [dysthymia, test, beck, adolescent, depression]
+Keywords Publication: [pubmed, expression, gene, regulatory, extracting, from, networks]
+Distance: 1.0918334791713447
+ 
+94.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/extracting-regulatory-gene-expression-networks-from http://ucuenca.edu.ec/resource/author/isabel-rojas-alvarado
+
+ 
+Keywords Autor: [dysthymia, test, beck, adolescent, depression]
+Keywords Publication: [databases, site, deep, induction, wide, web, scientific, prospector, automatic, wrapper, approach]
+Distance: 1.1972121095867598
+ 
+95.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/web-prospector-an-site-wide-wrapper-induction-approach-for-scientific-deep-web http://ucuenca.edu.ec/resource/author/isabel-rojas-alvarado
+
+ 
+Keywords Autor: [dysthymia, test, beck, adolescent, depression]
+Keywords Publication: [databases, site, deep, induction, wide, web, science, wrapper, life]
+Distance: 1.191163550070007
+ 
+96.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/site-wide-wrapper-induction-for-life-science-deep-web http://ucuenca.edu.ec/resource/author/isabel-rojas-alvarado
+
+ 
+Keywords Autor: [dysthymia, test, beck, adolescent, depression]
+Keywords Publication: [large, regulation, gene, organisms, context, scale, model, ontological, extraction]
+Distance: 1.1443363056547506
+ 
+97.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/large-scale-extraction-of-gene-regulation-for-model-organisms-in-an-ontological http://ucuenca.edu.ec/resource/author/isabel-rojas-alvarado
+
+ 
+Keywords Autor: [dysthymia, test, beck, adolescent, depression]
+Keywords Publication: [based, web, transcriptional, coli, control, escherichia, visualisation, network]
+Distance: 1.1015521033567015
+ 
+98.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/web-based-visualisation-of-the-transcriptional-control-network-of-escherichia http://ucuenca.edu.ec/resource/author/isabel-rojas-alvarado
+
+ 
+Keywords Autor: [dysthymia, test, beck, adolescent, depression]
+Keywords Publication: [data, biochemical, sabio, rk, reactions, warehouse, kinetics]
+Distance: 1.0543785380318733
+ 
+99.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/data-warehouse-for-biochemical-reactions-and-their http://ucuenca.edu.ec/resource/author/isabel-rojas-alvarado
+
+ 
+Keywords Autor: [dysthymia, test, beck, adolescent, depression]
+Keywords Publication: [database, reaction, biochemical, sabio, rk, kinetics]
+Distance: 1.0543785380318733
+ 
+100.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/sabio-rk-database-for-biochemical-reaction http://ucuenca.edu.ec/resource/author/isabel-rojas-alvarado
+
+ 
+Keywords Autor: [dysthymia, test, beck, adolescent, depression]
+Keywords Publication: [r, environment, e, author, review, execute]
+Distance: 1.1781592550936923
+ 
+101.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/the-author-review-execute http://ucuenca.edu.ec/resource/author/isabel-rojas-alvarado
+
+ 
+Keywords Autor: [dysthymia, test, beck, adolescent, depression]
+Keywords Publication: [reaction, data, curation, sabio, integration, rk, kinetics]
+Distance: 1.065947161693419
+ 
+102.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/integration-and-curation-of-reaction-kinetics http://ucuenca.edu.ec/resource/author/isabel-rojas-alvarado
+
+ 
+Keywords Autor: [dysthymia, test, beck, adolescent, depression]
+Keywords Publication: [databases, data, acquiring, rdf, unsupervised, science, online, from, approach, ontologies, life]
+Distance: 1.0793828610565435
+ 
+103.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/an-unsupervised-approach-for-acquiring-ontologies-and-rdf-data-from-online-life-science http://ucuenca.edu.ec/resource/author/isabel-rojas-alvarado
+
+ 
+Keywords Autor: [dysthymia, test, beck, adolescent, depression]
+Keywords Publication: [biochemischer, semantische, verbindungen, verarbeitung, von, flache, namen, und]
+Distance: 1.0781530356051452
+ 
+104.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/flache-und-semantische-verarbeitung-von-namen-biochemischer http://ucuenca.edu.ec/resource/author/isabel-rojas-alvarado
+
+ 
+Keywords Autor: [dysthymia, test, beck, adolescent, depression]
+Keywords Publication: [herausforderungen, der, extraktion, von, bei, biochemischen, aus, literatur, daten]
+Distance: 1.0663924381534453
+ 
+105.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/herausforderungen-bei-der-extraktion-von-biochemischen-daten-aus-der http://ucuenca.edu.ec/resource/author/isabel-rojas-alvarado
+
+ 
+Keywords Autor: [dysthymia, test, beck, adolescent, depression]
+Keywords Publication: [semantic, biology, concepts, unsupervised, learning, molecular, relations, between, ontology]
+Distance: 1.1660801713329765
+ 
+106.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/unsupervised-learning-of-semantic-relations-between-concepts-of-molecular-biology http://ucuenca.edu.ec/resource/author/isabel-rojas-alvarado
+
+ 
+Keywords Autor: [dysthymia, test, beck, adolescent, depression]
+Keywords Publication: [layout, drawing, pathways, graph, algorithm, metabolic]
+Distance: 1.182604395664386
+ 
+107.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/graph-layout-algorithm-for-drawing-metabolic-pathways http://ucuenca.edu.ec/resource/author/isabel-rojas-alvarado
+
+ 
+Keywords Autor: [dysthymia, test, beck, adolescent, depression]
+Keywords Publication: [based, web, biochemical, exchange, information]
+Distance: 1.1552765856336427
+ 
+108.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/web-based-exchange-of-biochemical http://ucuenca.edu.ec/resource/author/isabel-rojas-alvarado
+
+ 
+Keywords Autor: [dysthymia, test, beck, adolescent, depression]
+Keywords Publication: [medline, gene, regulatory, protein, from, extraction, networks]
+Distance: 1.0965687316424606
+ 
+109.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/extraction-of-regulatory-networks-from http://ucuenca.edu.ec/resource/author/isabel-rojas-alvarado
+
+ 
+Keywords Autor: [dysthymia, test, beck, adolescent, depression]
+Keywords Publication: [environment, biology, modeling, systems, sycamore, analysis, computational]
+Distance: 1.20231875632621
+ 
+110.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/sycamore-systems-biology-computational-analysis-and-modeling-research http://ucuenca.edu.ec/resource/author/isabel-rojas-alvarado
+
+ 
+Keywords Autor: [dysthymia, test, beck, adolescent, depression]
+Keywords Publication: [design, integration, sabio, rk, workbenches, model, kinetic]
+Distance: 1.1519121186846961
+ 
+111.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/integration-of-sabio-rk-in-workbenches-for-kinetic-model http://ucuenca.edu.ec/resource/author/isabel-rojas-alvarado
+
+ 
+Keywords Autor: [dysthymia, test, beck, adolescent, depression]
+Keywords Publication: [database, biochemical, sabio, rk, reactions, kinetics]
+Distance: 1.0543785380318733
+ 
+112.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/database-for-biochemical-reactions-and-their http://ucuenca.edu.ec/resource/author/isabel-rojas-alvarado
+
+ 
+Keywords Autor: [dysthymia, test, beck, adolescent, depression]
+Keywords Publication: [database, system, biochemical, pathways, analysis]
+Distance: 1.023938514209498
+ 
+Keywords Autor: [dysthymia, test, beck, adolescent, depression]
+Keywords Publication: [notes, biochemical, use, domain, ontologies]
+Distance: 1.1131916503002728
+ 
+113.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/notes-on-the-use-of-ontologies-in-the-biochemical http://ucuenca.edu.ec/resource/author/isabel-rojas-alvarado
+
+ 
+Keywords Autor: [dysthymia, test, beck, adolescent, depression]
+Keywords Publication: [annotation, 23, reaction, data, may, workshop, storage, heidelberg, bosch, 2007, kinetics]
+Distance: 1.1514389023025056
+ 
+114.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/workshop-on-and-annotation-of-reaction-kinetics-villa-bosch-in-may http://ucuenca.edu.ec/resource/author/isabel-rojas-alvarado
+
+ 
+Keywords Autor: [cultural, sigsig, socio, sociology, sigsis, justice, history, indian, relation]
+Keywords Publication: [contributions, systems, information, from, ontological, modelling, bunge's]
+Distance: 1.0357596448353152
+ 
+Keywords Autor: [cultural, sigsig, socio, sociology, sigsis, justice, history, indian, relation]
+Keywords Publication: [practice, using, educ, collaborative, mobile, learning, m]
+Distance: 1.0240125860861136
+ 
+Keywords Autor: [cultural, sigsig, socio, sociology, sigsis, justice, history, indian, relation]
+Keywords Publication: [emotion, e, communicability, culture, applications]
+Distance: 1.067893060248937
+ 
+115.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/emotion-and-communicability-in-e-culture http://ucuenca.edu.ec/resource/author/susana-herrera-calle
+
+ 
+Keywords Autor: [occupational, syndrome, health, burnout]
+Keywords Publication: [based, algorithms, using, deal, gradient, information, evolutionary, scalability, multi, objective]
+Distance: 1.0945502498542545
+ 
+116.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/using-gradient-based-information-to-deal-with-scalability-in-multi-objective-evolutionary http://ucuenca.edu.ec/resource/author/adriana-del-carmen-lara-chávez
+
+ 
+Keywords Autor: [occupational, syndrome, health, burnout]
+Keywords Publication: [optimal, decision, solutions, approximate, maker, evolution, space, differential, computing, scalar, mission]
+Distance: 1.0406565747421932
+ 
+117.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/computing-approximate-solutions-of-scalar-optimization-problems-and-applications-in-space-mission http://ucuenca.edu.ec/resource/author/adriana-del-carmen-lara-chávez
+
+ 
+Keywords Autor: [occupational, syndrome, health, burnout]
+Keywords Publication: [algorithms, directed, search, method, within, gradient, free, evolutionary, local, multi, objective]
+Distance: 1.1382465419404704
+ 
+118.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/the-gradient-free-directed-search-method-as-local-search-within-multi-objective-evolutionary http://ucuenca.edu.ec/resource/author/adriana-del-carmen-lara-chávez
+
+ 
+Keywords Autor: [occupational, syndrome, health, burnout]
+Keywords Publication: [using, gradient, memetic, multi, objective, hybrid, context, information, evolutionary, programming, problems]
+Distance: 1.0432045755300137
+ 
+119.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/using-gradient-information-for-multi-objective-problems-in-the-evolutionary http://ucuenca.edu.ec/resource/author/adriana-del-carmen-lara-chávez
+
+ 
+Keywords Autor: [occupational, syndrome, health, burnout]
+Keywords Publication: [new, algorithms, search, challenges, continuous, memetic, local, multi, objective, problems, algorithm]
+Distance: 1.0906940230404463
+ 
+120.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/new-challenges-for-memetic-algorithms-on-continuous-multi-objective http://ucuenca.edu.ec/resource/author/adriana-del-carmen-lara-chávez
+
+ 
+Keywords Autor: [occupational, syndrome, health, burnout]
+Keywords Publication: [some, comments, set, distance, igd, difference, hausdorff, relations, evolutionary, multi, objective]
+Distance: 1.0062945471178535
+ 
+Keywords Autor: [occupational, syndrome, health, burnout]
+Keywords Publication: [optimization, methods, evolutionary, continuation, problems]
+Distance: 1.093416959177538
+ 
+121.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/evolutionary-continuation-methods-for-optimization http://ucuenca.edu.ec/resource/author/adriana-del-carmen-lara-chávez
+
+ 
+Keywords Autor: [occupational, syndrome, health, burnout]
+Keywords Publication: [study, approximation, set, method, empirical, evolution, significant, influence, number, hardness, computing]
+Distance: 1.1218851775006753
+ 
+122.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/on-the-influence-of-the-number-of-objectives-on-the-hardness-of-multiobjective-optimization http://ucuenca.edu.ec/resource/author/adriana-del-carmen-lara-chávez
+
+ 
+Keywords Autor: [occupational, syndrome, health, burnout]
+Keywords Publication: [based, algorithms, search, hybridize, gradient, evolutionary, local, multi, objective]
+Distance: 1.0729135963732777
+ 
+123.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/on-gradient-based-local-search-to-hybridize-multi-objective-evolutionary http://ucuenca.edu.ec/resource/author/adriana-del-carmen-lara-chávez
+
+ 
+Keywords Autor: [occupational, syndrome, health, burnout]
+Keywords Publication: [painless, solving, gradient, bi, memetic, local, multi, objective, assisted, search, problem]
+Distance: 1.0874959267557611
+ 
+124.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/painless-gradient-assisted-multi-objective-memetic-mechanism-for-solving-continuous-bi-objective-optimization http://ucuenca.edu.ec/resource/author/adriana-del-carmen-lara-chávez
+
+ 
+Keywords Autor: [occupational, syndrome, health, burnout]
+Keywords Publication: [algorithms, directed, search, method, memetic, multi, objective]
+Distance: 1.076853628589459
+ 
+125.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/the-directed-search-method-for-multi-objective-memetic http://ucuenca.edu.ec/resource/author/adriana-del-carmen-lara-chávez
+
+ 
+Keywords Autor: [occupational, syndrome, health, burnout]
+Keywords Publication: [using, performance, measure, distance, optimization, averaged, multiobjective, hausdorff, evolutionary]
+Distance: 1.0744203370520313
+ 
+126.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/using-the-averaged-hausdorff-distance-as-performance-measure-in-evolutionary-multiobjective http://ucuenca.edu.ec/resource/author/adriana-del-carmen-lara-chávez
+
+ 
+Keywords Autor: [occupational, syndrome, health, burnout]
+Keywords Publication: [genetic, new, algorithms, set, indexing, strength, local, memetic, benchmark, search, problem]
+Distance: 1.085466526162808
+ 
+127.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/new-local-search-strategy-for-memetic-multiobjective-evolutionary http://ucuenca.edu.ec/resource/author/adriana-del-carmen-lara-chávez
+
+ 
+Keywords Autor: [clinical, insulin, biochemical, laboratory, pharmacy]
+Keywords Publication: [contribution, emotion, disease, alzheimer's, complex, patients, recognition, first]
+Distance: 0.801560496813816
+ 
+Keywords Autor: [management, organization, staff, medicine, nursing, intensive, care]
+Keywords Publication: [technologies, motor, multidisciplinary, disabilities, assistive, design, suitable, colombia]
+Distance: 0.9258823483985452
+ 
+Keywords Autor: [composting, waste, drains, sentences, vermiculture, slopes, landfill, camp, dam, mazar, leachate]
+Keywords Publication: [based, approximation, deterministic, outer, global, nonlinear, estimation, optimization, systems, parameter, biological]
+Distance: 0.9934082257066287
+ 
+Keywords Autor: [composting, waste, drains, sentences, vermiculture, slopes, landfill, camp, dam, mazar, leachate]
+Keywords Publication: [through, models, linear, law, global, canonical, non, optimization, dynamic, recasting, state]
+Distance: 1.057154805799656
+ 
+128.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/steady-state-global-optimization-of-metabolic-non-linear-dynamic-models-through-recasting-into-power-law-canonical http://ucuenca.edu.ec/resource/author/carlos-eduardo-pozo-andrade
+
+ 
+Keywords Autor: [composting, waste, drains, sentences, vermiculture, slopes, landfill, camp, dam, mazar, leachate]
+Keywords Publication: [facilitate, post, optimal, pareto, optimization, use, solutions, filters, analysis, multi, objective]
+Distance: 0.9750551504404035
+ 
+Keywords Autor: [composting, waste, drains, sentences, vermiculture, slopes, landfill, camp, dam, mazar, leachate]
+Keywords Publication: [enhancing, through, environmental, method, use, sequences, objective, random, application, ?, constraint]
+Distance: 0.9869993319189289
+ 
+Keywords Autor: [composting, waste, drains, sentences, vermiculture, slopes, landfill, camp, dam, mazar, leachate]
+Keywords Publication: [milp, linear, use, regression, studies, combined, simplify, lca, multi]
+Distance: 0.9909727177117637
+ 
+Keywords Autor: [composting, waste, drains, sentences, vermiculture, slopes, landfill, camp, dam, mazar, leachate]
+Keywords Publication: [biotechnology, study, optimal, niger, global, saccharomyces, nonlinear, network, acid, citric, solution]
+Distance: 0.9530795466396528
+ 
+Keywords Autor: [composting, waste, drains, sentences, vermiculture, slopes, landfill, camp, dam, mazar, leachate]
+Keywords Publication: [models, approximation, hybrid, fba, optimization, outer, gobal, kinetic, via]
+Distance: 1.0268079342327598
+ 
+Keywords Autor: [marketing, crematorium, new, companies, motivation, competition, technology, pet]
+Keywords Publication: [fundus, detection, images, color, automatic, microaneurysms]
+Distance: 1.1095229439823286
+ 
+129.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/automatic-detection-of-microaneurysms-in-color-fundus http://ucuenca.edu.ec/resource/author/richard-manuel-ordóñez-gonzález
+
+ 
+Keywords Autor: [sounds, estetoscopicos, decoficador, encoder, network]
+Keywords Publication: [needs, small, new, development, large, impact, technology, platform, multi, society, systems]
+Distance: 0.9818138706982582
+ 
+Keywords Autor: [seafood, marketing, marketer, positioning, advertising, sales]
+Keywords Publication: [dolphin, operations, logistics, guest, tales, designing, flow]
+Distance: 1.0495318381175978
+ 
+130.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/designing-guest-flow-and-operations-logistics-for-the-dolphin http://ucuenca.edu.ec/resource/author/ruth-aracely-lópez-lópez
+
+ 
+Keywords Autor: [internal, collections, portfolio, financial, audit, control, accounts, accounting, recovery]
+Keywords Publication: [problem, conductivity, solution, solutions, forward, eeg, values, model, different, weak, mathematical]
+Distance: 1.1229122697965186
+ 
+131.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/weak-solutions-of-the-forward-problem-in-eeg-for-different-conductivity http://ucuenca.edu.ec/resource/author/diana-eufemia-rubio-cedillo
+
+ 
+Keywords Autor: [internal, collections, portfolio, financial, audit, control, accounts, accounting, recovery]
+Keywords Publication: [optimal, systems, techniques, design, parameter, distributed]
+Distance: 1.1024152088175065
+ 
+132.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/optimal-design-techniques-for-distributed-parameter http://ucuenca.edu.ec/resource/author/diana-eufemia-rubio-cedillo
+
+ 
+Keywords Autor: [internal, collections, portfolio, financial, audit, control, accounts, accounting, recovery]
+Keywords Publication: [problem, eeg, forward, sensitivity, analysis]
+Distance: 1.1167420652374027
+ 
+133.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/sensitivity-analysis-for-the-eeg-forward http://ucuenca.edu.ec/resource/author/diana-eufemia-rubio-cedillo
+
+ 
+Keywords Autor: [industrial, electrical, technology, facilities]
+Keywords Publication: [normal, scanners, mri, subjects, electric, mild, multiple, whole, echo, brain, across]
+Distance: 0.9910977641087119
+ 
+Keywords Autor: [servants, public, administrative, rights, jurisdiction, legal, fundamental, protection, acts]
+Keywords Publication: [through, software, sensitive, engineering, concerns, experience, concern, quality, navigation, improving, web]
+Distance: 1.2104490279706899
+ 
+134.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/concern-sensitive-improving-navigation-in-web-software-through-separation-of http://ucuenca.edu.ec/resource/author/leandro-sebastián-pérez-ayoví
+
+ 
+Keywords Autor: [sigou, system, application, 400, management, operating, users, network]
+Keywords Publication: [evaluation, opportunistic, consumption, power, vehicular, networks]
+Distance: 1.0017884816009788
+ 
+Keywords Autor: [sigou, system, application, 400, management, operating, users, network]
+Keywords Publication: [based, transfer, data, impact, contact, evaluating, time, messaging, applications]
+Distance: 0.9032554157835267
+ 
+Keywords Autor: [relationships, social, pedagogy, family, community, relationship, relation]
+Keywords Publication: [treated, neoadjuvant, gross, advanced, e, findings, chemotherapy, her2, hormone, preoperative, locally]
+Distance: 1.0983716643096264
+ 
+135.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/incidence-of-pathologic-complete-response-in-women-treated-with-preoperative-chemotherapy-for-locally-advanced-breast-correlation-of-hormone-receptor-and-gross-pathologic http://ucuenca.edu.ec/resource/author/marcia-daniela-patiño-salcedo
+
+ 
+Keywords Autor: [washing, oil, cyclonic, compact, thermal, treaters, dehydration, tank, separators]
+Keywords Publication: [analogues, new, activators, trpv1, discovery, capsaicin, rational]
+Distance: 0.989541717885869
+ 
+Keywords Autor: [personalidad, duelo, psicoterapia, integrativa, seapsi, sistematizacion]
+Keywords Publication: [small, applying, process, development, iso, software, methodologies, iec, methods, enterprise, medium]
+Distance: 1.0344016345685214
+ 
+Keywords Autor: [security, glucose, social, consanguinity, triglycerides]
+Keywords Publication: [estimation, statistical, diameter, methods, reliability, rare, scenarios, event, constrained]
+Distance: 1.0573203380096785
+ 
+136.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/statistical-methods-for-diameter-constrained-reliability-estimation-in-rare-event http://ucuenca.edu.ec/resource/author/maría-fernanda-gonzález-gonzález
+
+ 
+Keywords Autor: [intranet, tcp, computer, ip, control, engineering, socket, monitoring, net, shiffer]
+Keywords Publication: [upgrading, geographic, spatio, system, decision, systems, information, support, temporal]
+Distance: 0.9499719783259108
+ 
+Keywords Autor: [intranet, tcp, computer, ip, control, engineering, socket, monitoring, net, shiffer]
+Keywords Publication: [multicriteria, making, comparison, afforestation, decision, selection, methods, sites]
+Distance: 1.0466107738986807
+ 
+137.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/comparison-of-multicriteria-decision-making-methods-for-selection-of-afforestation http://ucuenca.edu.ec/resource/author/rené-gustavo-estrella-maldonado
+
+ 
+Keywords Autor: [intranet, tcp, computer, ip, control, engineering, socket, monitoring, net, shiffer]
+Keywords Publication: [performance, s, software, independent, t, student, tutorials, satisfaction, relation]
+Distance: 1.0100170318905755
+ 
+Keywords Autor: [drinking, engineering, water, sewage]
+Keywords Publication: [use, aerial, relation, andes, dynamics, landuse, land, term, catchment, image, socio]
+Distance: 1.0260874212694107
+ 
+Keywords Autor: [organizational, models, oracle, workflow, rpc, passage, documents, structure, management, electronic, messages]
+Keywords Publication: [commercial, development, implications, wide, privacy, structure, marketspace, world, web, information, uses]
+Distance: 1.0026514124575687
+ 
+Keywords Autor: [market, organizational, evaluation, performance, management, enterprise, description, resources, company, human, structure]
+Keywords Publication: [crowdsourcing, daemo, marketplace, self, governed]
+Distance: 0.9928351484935581
+ 
+Keywords Autor: [planning, numerical, takers, management, stochastic, decisions, scenarios, water, modelling]
+Keywords Publication: [assessment, algorithms, optimal, resource, systems, design, rules, operating, real, evolutionary, water]
+Distance: 0.8239561332641057
+ 
+Keywords Autor: [salivary, tumors, pathology, sarcoma, dentistry, lesions, premalignant, lymphoma, kaposi, oral, gland]
+Keywords Publication: [elicited, race, gene, genes, e, blight, putative, suppresses, specific, resistance, infestans]
+Distance: 0.8366912166087002
+ 
+Keywords Autor: [salivary, tumors, pathology, sarcoma, dentistry, lesions, premalignant, lymphoma, kaposi, oral, gland]
+Keywords Publication: [durum, tetraploid, e, triticina, collection, leaf, rust, puccinia, phenotypes, virulence, worldwide]
+Distance: 0.9385121983718389
+ 
+Keywords Autor: [salivary, tumors, pathology, sarcoma, dentistry, lesions, premalignant, lymphoma, kaposi, oral, gland]
+Keywords Publication: [durum, e, triticina, simple, collection, population, turgidum, sequence, diversity, puccinia, genetics]
+Distance: 0.9109658517898781
+ 
+Keywords Autor: [salivary, tumors, pathology, sarcoma, dentistry, lesions, premalignant, lymphoma, kaposi, oral, gland]
+Keywords Publication: [genetic, differentiation, caucasus, e, triticina, asia, leaf, brown, rust, puccinia, aestivum]
+Distance: 0.974296971128963
+ 
+Keywords Autor: [salivary, tumors, pathology, sarcoma, dentistry, lesions, premalignant, lymphoma, kaposi, oral, gland]
+Keywords Publication: [cluster, differentiated, tested, collected, occurs, objective, america, number, ssr, loci, lr17]
+Distance: 0.8764290119237795
+ 
+Keywords Autor: [salivary, tumors, pathology, sarcoma, dentistry, lesions, premalignant, lymphoma, kaposi, oral, gland]
+Keywords Publication: [urediniospores, mostly, differentiated, tested, american, america, objective, introduced, ssr, alleles, based]
+Distance: 0.8530667395382314
+ 
+Keywords Autor: [salivary, tumors, pathology, sarcoma, dentistry, lesions, premalignant, lymphoma, kaposi, oral, gland]
+Keywords Publication: [urediniospores, smaller, differentiated, tested, collected, entire, when, objective, simplesequence, observed, ssr]
+Distance: 0.8922704757672797
+ 
+Keywords Autor: [signals, applied, physics, electronic, processing, technology, biometric, telecommunications]
+Keywords Publication: [parking, using, smartcities, e, simert, rsi, smart, network, system, wsn, smartparking]
+Distance: 1.006645532264576
+ 
+Keywords Autor: [gilbert, disease, cholelithiasis, mellitus, abel, hypertriglyceridemia, digestive, ponton, hypercholesterolemia, factors, risk]
+Keywords Publication: [database, expression, gene, atlas, plants, protein, update, animals, humans, integrated]
+Distance: 0.8526053799346787
+ 
+Keywords Autor: [gilbert, disease, cholelithiasis, mellitus, abel, hypertriglyceridemia, digestive, ponton, hypercholesterolemia, factors, risk]
+Keywords Publication: [gramene, 2016, comparative, plant, genomics, pathway, resources]
+Distance: 0.9685465217633791
+ 
+Keywords Autor: [macrophages, insulin, genes, diabetes]
+Keywords Publication: [heat, associations, new, expression, maps, method, explore, sets, two, feature, complex]
+Distance: 1.0139237127392269
+ 
+Keywords Autor: [bupivacaine, analgesic, spinal, fentanyl]
+Keywords Publication: [tap, educational, data, what's, survey, visually, stormwater, appealing, tools, transforming]
+Distance: 1.027130199645159
+ 
+Keywords Autor: [planning, fdao, strategic, strategies, micro, financial, success, descriptive, segmentation, advertising, key]
+Keywords Publication: [planning, security, transmission, multiobjective, constraints]
+Distance: 0.9413428036515487
+ 
+Keywords Autor: [prevalence, complications, survey, copcord, studies, rheumatic, diseases, validation]
+Keywords Publication: [prevalence, disorders, study, ilar, e, rheumatic, diseases, copcord, musculoskeletal, who]
+Distance: 0.6429427857281911
+ 
+Keywords Autor: [government, business, financial, administration, aspects, economic, local]
+Keywords Publication: [digital, educational, social, european, project, exclusion, groups, training, technology, union, program]
+Distance: 0.9973202867521347
+ 
+Keywords Autor: [education, method, reading, teaching, learning, language, escolopica, disorders, literature, irlen, psychology]
+Keywords Publication: [data, building, feedback, evaluation, coupling, design, iteration, construction, model, knowledge, energy]
+Distance: 1.0191300343718466
+ 
+Keywords Autor: [drinking, service, control, water, sewage]
+Keywords Publication: [reliability, contingent, protection, basin, water, supply, quality, valuation, improve, potable, value]
+Distance: 0.9206586016510245
+ 
+Keywords Autor: [management, competitiveness, model, control, ecuaconstrucciones]
+Keywords Publication: [product, development, process, software, during, value, estimating]
+Distance: 0.9760579641117766
+ 
+Keywords Autor: [saliva, peptide, anticoagulants, antiplatelet]
+Keywords Publication: [broadcast, switching, constant, test, activity, built, consumption, prpg, low, self, power]
+Distance: 1.0276459584014406
+ 
+Keywords Autor: [saliva, peptide, anticoagulants, antiplatelet]
+Keywords Publication: [effective, using, timing, testing, scan, multiple, clock, approach, waveforms, speed]
+Distance: 0.955530877043816
+ 
+Keywords Autor: [saliva, peptide, anticoagulants, antiplatelet]
+Keywords Publication: [generation, based, strong, efficiency, method, data, test, level, guarantee, fault, testability]
+Distance: 0.994376570974242
+ 
+Keywords Autor: [saliva, peptide, anticoagulants, antiplatelet]
+Keywords Publication: [dft, transfer, method, level, model, time, expansion, register]
+Distance: 1.0342238896119358
+ 
+Keywords Autor: [saliva, peptide, anticoagulants, antiplatelet]
+Keywords Publication: [generation, models, linear, method, test, level, sequential, guarantee, testability, functionals, expansion]
+Distance: 1.0116292840178784
+ 
+Keywords Autor: [improved, processes, unit, application, web, utpl, conferences, events]
+Keywords Publication: [cfd, using, functions, cascade, basis, approach, blade, radial, search, application, design]
+Distance: 0.9632494891007177
+ 
+Keywords Autor: [pets, thymol, oregano, plants, carvacrol, digestibility, medicinal]
+Keywords Publication: [l'analyse, risques, des, exigences, l'expression, d'information, sécurité, systèmes]
+Distance: 1.0296961104813296
+ 
+Keywords Autor: [pets, epidemiology, indigenous, parasites, amphimerus]
+Keywords Publication: [models, using, evolving, ecosystem, co2, interpolating, grammatical, exchange, evolution, net]
+Distance: 0.9769643422171871
+ 
+Keywords Autor: [genetic, regusos, property, intellectual]
+Keywords Publication: [entropy, estimator, hierarchical, maximum, logit, model, aggregate]
+Distance: 1.0208609680111975
+ 
+Keywords Autor: [genetic, regusos, property, intellectual]
+Keywords Publication: [models, equivalence, entropy, estimator, likelihood, interpretation, maximum, its, microeconomic, logit, multinomial]
+Distance: 1.0234180701038602
+ 
+Keywords Autor: [polymer, biodiversity, decision, spray, purpose, testing, biomimetic, mechanical, air, matrix, optimizacion]
+Keywords Publication: [upgrading, geographic, spatio, system, decision, systems, information, support, temporal]
+Distance: 0.9877544920193906
+ 
+Keywords Autor: [polymer, biodiversity, decision, spray, purpose, testing, biomimetic, mechanical, air, matrix, optimizacion]
+Keywords Publication: [based, comparison, obia, maximization, automatic, segmentation, index, procedure, semi]
+Distance: 0.9847771213494855
+ 
+Keywords Autor: [polymer, biodiversity, decision, spray, purpose, testing, biomimetic, mechanical, air, matrix, optimizacion]
+Keywords Publication: [based, environmental, method, methods, multiple, comparing, heuristic, site, afforestation, performance, application]
+Distance: 0.9752302584009197
+ 
+Keywords Autor: [polymer, biodiversity, decision, spray, purpose, testing, biomimetic, mechanical, air, matrix, optimizacion]
+Keywords Publication: [requirements, dakota, south, configuration, reforestation, ip, compactness, integer, program, cell, size]
+Distance: 1.0359119094143443
+ 
+Keywords Autor: [polymer, biodiversity, decision, spray, purpose, testing, biomimetic, mechanical, air, matrix, optimizacion]
+Keywords Publication: [decision, data, line, compactness, format, technique, cell, relation, literature, geographic, system]
+Distance: 1.0042369510269618
+ 
+Keywords Autor: [polymer, biodiversity, decision, spray, purpose, testing, biomimetic, mechanical, air, matrix, optimizacion]
+Keywords Publication: [requirements, solution, method, minimization, reforestation, compactness, initiatives, heuristic, flow]
+Distance: 0.9738136696995306
+ 
+Keywords Autor: [database, systems, objects, query, structured, model, language, microsoft, net, oriented, sql]
+Keywords Publication: [planning, development, study, projects, software, advocacy, case, inspection]
+Distance: 1.025040596136921
+ 
+Keywords Autor: [database, systems, objects, query, structured, model, language, microsoft, net, oriented, sql]
+Keywords Publication: [small, development, companies, code, software, metric, ecuadorian]
+Distance: 0.9865841820047114
+ 
+Keywords Autor: [filter, analog, microcontroller, butterworth, tschebychev, active, bessel, microchip, filters, pic16f648a, pic]
+Keywords Publication: [cmos, layout, generation, pairing, combined, chaining, algorithm]
+Distance: 0.7653212847667393
+ 
+Keywords Autor: [supan, organizational, corporate, identity, branding, company, objectives, communication, plan]
+Keywords Publication: [mexico's, méxico, application, learn, geography, explora, mobile]
+Distance: 0.996865060087985
+ 
+Keywords Autor: [algorithms, use, matrices, mathematical]
+Keywords Publication: [new, algorithms, testor, performance, strategies, typical, evaluating]
+Distance: 0.6819250719005354
+ 
+Keywords Autor: [betacea, manure, flour, romeral, meloidogyne, tree, cav, cyphomandra, tomato, seend, higuerilla]
+Keywords Publication: [forest, biomass, quantification, pine, radiata, pinus, insigne, soil, stratum, ozogoche, plantation]
+Distance: 1.0133383352499645
+ 
+Keywords Autor: [annotation, cloud, semantic, visualization, data, rdf, automatic, health, ization, linked, semanticweb]
+Keywords Publication: [enrichment, metadata, using, method, automatic, biomedical, dicom, ontologies]
+Distance: 0.7218736679665675
+ 
+Keywords Autor: [projects, business, management, administration, project, control]
+Keywords Publication: [habitual, educational, distance, natural, social, entertainment, health, learning, services, type, pedagogical]
+Distance: 0.9996427513355165
+ 
+Keywords Autor: [schema, development, education, expression, initial, learning, body, psychomotor]
+Keywords Publication: [cyberbullying, psychometric, modalities, aggressors, adolescents, social, profile, support, properties]
+Distance: 0.9650226827427543
+ 
+Keywords Autor: [development, management, social, competency, organizations, entrepreneurial, master]
+Keywords Publication: [diffusion, package, calcium, neuroendocrine, software, method, calcium3d, simulation, monte, cells, carlo]
+Distance: 1.0387043476617177
+ 
+Keywords Autor: [systems, renewable, vector, hydrogen, power, energy]
+Keywords Publication: [electrolysis, using, modeling, hydroelectricity, production, e, simulation, hydrogen, venezuela]
+Distance: 0.6785671516890317
+ 
+Keywords Autor: [systems, renewable, vector, hydrogen, power, energy]
+Keywords Publication: [using, penetration, e, use, alternative, fuels, hydrogen, transport, analysis, modelling, market]
+Distance: 0.722900947532421
+ 
+Keywords Autor: [systems, renewable, vector, hydrogen, power, energy]
+Keywords Publication: [phase, study, technical, e, use, financial, rural, hydrogen, storage, venezuela, hydroelectricity]
+Distance: 0.6912269082852894
+ 
+Keywords Autor: [systems, renewable, vector, hydrogen, power, energy]
+Keywords Publication: [cells, e, simulation, fuel, rural, pem, utilization, cell, modelling, sector, venezuela]
+Distance: 0.7519870406526964
+ 
+Keywords Autor: [systems, renewable, vector, hydrogen, power, energy]
+Keywords Publication: [study, development, system, technical, hydroelectricity, e, financial, hydrogen, venezuela, energy, viability]
+Distance: 0.7241848035544637
+ 
+Keywords Autor: [systems, renewable, vector, hydrogen, power, energy]
+Keywords Publication: [energetic, production, e, solar, hydrogen, venezuela, estimation, electrolytic, energies, system, renewable]
+Distance: 0.5354949164746154
+ 
+Keywords Autor: [systems, renewable, vector, hydrogen, power, energy]
+Keywords Publication: [fleet, process, powered, e, simulation, fuel, vehicles, transport, hydrogen, technology, cell]
+Distance: 0.6953546689951766
+ 
+Keywords Autor: [systems, renewable, vector, hydrogen, power, energy]
+Keywords Publication: [cost, e, production, sustainable, use, hydropower, h2, hydrogen, impacts, transport, spilled]
+Distance: 0.6579535914615242
+ 
+Keywords Autor: [systems, renewable, vector, hydrogen, power, energy]
+Keywords Publication: [estimation, electrolytic, energies, production, renewable, rural, from, hydrogen, preliminary, potential, energy]
+Distance: 0.4522987930450934
+ 
+Keywords Autor: [internal, education, financial, resources, control, auditing, engineering, espe, master, army, polytechnical]
+Keywords Publication: [study, aerosols, alternative, affecting, phytoremediation, remote, analysis, perception, sustentable, atmospheric, chapala's]
+Distance: 1.0050001078992263
+ 
+Keywords Autor: [serotina, liquors, solid, transfer, liquid, oils, prunus, mass, coefficient, capuli, extraction]
+Keywords Publication: [based, discovery, services, traceability, applications]
+Distance: 1.0167714684659586
+ 
+Keywords Autor: [serotina, liquors, solid, transfer, liquid, oils, prunus, mass, coefficient, capuli, extraction]
+Keywords Publication: [synthesis, salinity, soil, moisture, imaging, amiras, aperture, airborne, ocean, radiometry, demonstrator]
+Distance: 0.9605564125684294
+ 
+Keywords Autor: [mines, pangui, lithology, mineralogy, mining, geology, chinapintza, map, geological]
+Keywords Publication: [perovskite, excited, e, f, crystal, fundamental, type, structure, states, mgsio3, electronic]
+Distance: 1.0342674091902053
+ 
+Keywords Autor: [mines, pangui, lithology, mineralogy, mining, geology, chinapintza, map, geological]
+Keywords Publication: [gga, incorporation, impurity, been, evidence, about, crystalline, approach, without, doped, reacts]
+Distance: 1.0129583318547137
+ 
+Keywords Autor: [innovation, environmental, bacterial, poisoning, management, therapy, health, risk, plagicidas, anti, agents]
+Keywords Publication: [realist, year, occupational, implementation, health, analysis, tool, weapon, system, white, information]
+Distance: 0.7823225605444247
+ 
+Keywords Autor: [organizational, management, personal, climate, job, satisfaction]
+Keywords Publication: [evaluation, system, teams, systems, criteria, recommender, fuzzy, knowledge]
+Distance: 0.9171705308950555
+ 
+Keywords Autor: [including, third, dental, molars, pericoronitis, panoramic, caries]
+Keywords Publication: [digital, system, signs, terrestrial, natural, disasters, television, warning, monitoring, designing, early]
+Distance: 1.0346621085468681
+ 
+Keywords Autor: [study, cases, vicente, regional, liver, patients, moscoso, punctures, corral, civil, biopsy]
+Keywords Publication: [trauma, providing, ecosystem, prehospital, support, intelligent, care]
+Distance: 0.9845172796875094
+ 
+Keywords Autor: [communications, service, mobile, networks, radio, base]
+Keywords Publication: [databases, biothermodynamics, pharmaceutical, biotechnology, hiv, data, structural, resource, structured, industry]
+Distance: 1.0335632165615352
+ 
+Keywords Autor: [communications, service, mobile, networks, radio, base]
+Keywords Publication: [mediated, based, computer, coherence, web, documents, discussions, interactivity, text, communication, around]
+Distance: 0.9017877775823931
+ 
+Keywords Autor: [coast, epidemiology, north, coli, microbiology, escherichia]
+Keywords Publication: [through, digital, computer, game, exploring, cats, interaction, animal, crime, humans, purrfect]
+Distance: 0.9736409577748816
+ 
+Keywords Autor: [process, educational, microplanning, english, resources, teaching, learning, language, methodology]
+Keywords Publication: [education, distance, impact, implementation, learning, training, point, telecommunications, view, system, systems]
+Distance: 0.9374866009173871
+ 
+Keywords Autor: [blasts, mills, resources, department, human, quality]
+Keywords Publication: [using, realistic, modeling, cognitive, maps, systems, complex, dynamic, fuzzy]
+Distance: 1.1764696188705779
+ 
+138.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/modelamiento-de-sistemas-complejos-mediante-mapas-cognitivos http://ucuenca.edu.ec/resource/author/david-orlando-amaya-yagual
+
+ 
+Keywords Autor: [annals, security, social, anal, work, index, magazine, welfare, methodology, story]
+Keywords Publication: [virtual, neural, simulation, learning, network, from, model, reinforcement, preliminary, inverted, pendulum]
+Distance: 1.0771884293570564
+ 
+139.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/preliminary-results-from-real-time-control-system-using-optical http://ucuenca.edu.ec/resource/author/guillermina-martínez-andrade
+
+ 
+Keywords Autor: [marketing, surfaces, enterprise, resources, sweets, edible, competitive, strategy, plan, human, personalized]
+Keywords Publication: [number, geodesic, graphs, geodetic, products]
+Distance: 1.140646945392218
+ 
+140.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/products-of-geodesic-graphs-and-the-geodetic-number-of http://ucuenca.edu.ec/resource/author/rommy-silvana-márquez-ramírez
+
+ 
+Keywords Autor: [canar, marketing, chorocopte, business, honorato, administration, milk, vásquez, tambo, ingapirca, juncal]
+Keywords Publication: [systems, adapting, self, menta, analysis, approach, quality]
+Distance: 1.023135748383449
+ 
+Keywords Autor: [canar, marketing, chorocopte, business, honorato, administration, milk, vásquez, tambo, ingapirca, juncal]
+Keywords Publication: [adaptable, soa, within, systems, driven, self, model, scenarios, analysis, approach, quality]
+Distance: 1.0250517126027645
+ 
+Keywords Autor: [wheels, controller, multifunctional, chair, electronic, touch, screen]
+Keywords Publication: [assisted, computer, study, reaction, leading, thdp, lactyl, pathway, ylide, pyruvate, between]
+Distance: 1.0212622335536155
+ 
+Keywords Autor: [quantification, linear, transmission, technical, systems, sound, electronic, information, engineering, audio, communication]
+Keywords Publication: [loss, environment, propagation, channel, short, range, indoor, bands, narrowband, three, directive]
+Distance: 0.9765631783824869
+ 
+Keywords Autor: [epidemiology, cigarette, smoking, legislation]
+Keywords Publication: [dimensional, maps, from, towards, relations, transformation, hbase, methodology, multi, sql]
+Distance: 1.1792948786703077
+ 
+141.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/from-relations-to-multi-dimensional-towards-an-sql-to-hbase-transformation http://ucuenca.edu.ec/resource/author/diego-patricio-serrano-piedra
+
+ 
+Keywords Autor: [epidemiology, cigarette, smoking, legislation]
+Keywords Publication: [uniform, database, data, environments, model, towards, multi]
+Distance: 1.1588729890914855
+ 
+142.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/towards-uniform-data-model-in-multi-database http://ucuenca.edu.ec/resource/author/diego-patricio-serrano-piedra
+
+ 
+Keywords Autor: [epidemiology, cigarette, smoking, legislation]
+Keywords Publication: [exploring, social, academic, visualizing, networks, analysis, network]
+Distance: 1.1725707092842657
+ 
+143.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/exploring-and-visualizing-academic-social http://ucuenca.edu.ec/resource/author/diego-patricio-serrano-piedra
+
+ 
+Keywords Autor: [epidemiology, cigarette, smoking, legislation]
+Keywords Publication: [wikidev20, development, process, virtual, visualization, visualizations, worlds, data, software, accessibility, collaborative]
+Distance: 1.2000061123105676
+ 
+144.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/2d-and-3d-visualizations-in http://ucuenca.edu.ec/resource/author/diego-patricio-serrano-piedra
+
+ 
+Keywords Autor: [epidemiology, cigarette, smoking, legislation]
+Keywords Publication: [large, social, scale, querying, networks, analysis, building, graph, network, environment, exploring]
+Distance: 1.226667009175314
+ 
+145.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/an-environment-for-exploring-and-querying-academic-social http://ucuenca.edu.ec/resource/author/diego-patricio-serrano-piedra
+
+ 
+Keywords Autor: [costs, management, audit, control, accounting, classification]
+Keywords Publication: [aesthetic, based, image, sorting, classification, compression]
+Distance: 1.226735473938721
+ 
+146.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/aesthetic-classification-and-sorting-based-on-image http://ucuenca.edu.ec/resource/author/olga-pilar-osorio-trávez
+
+ 
+Keywords Autor: [mora, azuay, natural, manure, pollination, annona, cherimola, cherimoya, cow, mill, enraizadores]
+Keywords Publication: [enhanced, feedback, linguistic, environment, nlp, distance, individualised, language, learning, analysis]
+Distance: 1.0097610344845112
+ 
+Keywords Autor: [mora, azuay, natural, manure, pollination, annona, cherimola, cherimoya, cow, mill, enraizadores]
+Keywords Publication: [integrating, software, distance, alles, language, learning, multimodal, interface, off, long, shelf]
+Distance: 1.0289497619781076
+ 
+Keywords Autor: [planning, development, unit, economy, economic]
+Keywords Publication: [image, retinal, assess, analyzer, caliber, vessel, automatic, altair]
+Distance: 1.2663394934328596
+ 
+147.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/automatic-image-analyzer-to-assess-retinal-vessel http://ucuenca.edu.ec/resource/author/miguel-merchán-delgado
+
+ 
+Keywords Autor: [public, urban, passenger, services, transport, quality]
+Keywords Publication: [modeling, software, analytical, death, dimensionality, simulation, type, distribution, stochastic, model, programming]
+Distance: 1.19416362858714
+ 
+148.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/jmarkov-stochastic-modeling http://ucuenca.edu.ec/resource/author/andrés-guillermo-sarmiento-cedeño
+
+ 
+Keywords Autor: [communications, data, seminar, wireless, comunicaciones, services, networks, network, salud]
+Keywords Publication: [improving, patients, diagnosis, towards, pervasive, monitoring, hypertensive, support, care]
+Distance: 1.1419060728759516
+ 
+149.
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/towards-improving-hypertensive-patients-pervasive-monitoring-and-diagnosis http://ucuenca.edu.ec/resource/author/jorge-enrique-céspedes-velasco
+
+ 

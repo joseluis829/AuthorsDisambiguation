@@ -1,0 +1,124 @@
+Keywords Autor: [medicine]
+Keywords Publication: [amoxicillin, fibers, activity, e, release, antibacterial, biomedical, nanofibers, preparation, loaded, controlled]
+Distance: 0.947105729068286
+Keywords Autor: [medicine]
+Keywords Publication: [baccharis, ruiz, pers, activity, pav, asteraceae, e, antibacterial, rubrum, latifolia, limonene]
+Distance: 1.1943124165402017
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/chemical-antifungal-and-antibacterial-activity-of-the-essential-oil-from-baccharis-latifolia-from-loja http://ucuenca.edu.ec/resource/author/eduardo-gustavo-valarezo-armijos
+
+Keywords Autor: [medicine]
+Keywords Publication: [titanocene, fibers, activity, antitumor, e, polycaprolactone, release, vitro, enhanced, encapsulated, electrospun]
+Distance: 0.9409898362818898
+Keywords Autor: [medicine]
+Keywords Publication: [baccharis, kunth, activity, e, asteraceae, antibacterial, obtusifolia, rubrum, limonene, antifungal, oil]
+Distance: 0.9600226801937072
+Keywords Autor: [medicine]
+Keywords Publication: [delivering, amoxicillin, fibers, e, fabrication, blend, nanofibers, acid, loaded, lactic, tunable]
+Distance: 1.0122617820360786
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/fabrication-and-characterization-of-blend-electrospun-fibers-loaded-with-amoxicillin-for-tunable http://ucuenca.edu.ec/resource/author/eduardo-gustavo-valarezo-armijos
+
+Keywords Autor: [medicine]
+Keywords Publication: [e, volubilis, aromadendrene, two, scutellaria, germacrene, paniculata, chemical, composition, oils, species]
+Distance: 0.8848696730703565
+Keywords Autor: [planning, business]
+Keywords Publication: [innovative, virtual, smebased, micro, enterprise, collaboration, agile, networks, approach]
+Distance: 1.0762895931940264
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/an-innovative-virtual-enterprise-approach-to-agile-micro-and-sme-based-collaboration http://ucuenca.edu.ec/resource/author/patricia-ortiz
+
+Keywords Autor: [market, business, values, position, research]
+Keywords Publication: [innovation, process, product, virtual, business, data, collaborative, organisation, technology, networks, intelligent]
+Distance: 1.0307880946364827
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/collaborative-innovation-in-ubiquitous http://ucuenca.edu.ec/resource/author/verónica-serrano
+
+Keywords Autor: [chicken, health, microscopic, pollution, nitrates, water, fertilizer, research]
+Keywords Publication: [cache, realtime, multitasking, locality, real, wcet, computation, improving, systems, lockable, instruction]
+Distance: 1.0823812050432655
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/improving-the-wcet-computation-in-the-presence-of-lockable-instruction-cache-in-multitasking-real-time http://ucuenca.edu.ec/resource/author/juan-melchor-segarra-rojas
+
+Keywords Autor: [chicken, health, microscopic, pollution, nitrates, water, fertilizer, research]
+Keywords Publication: [reuse, realtime, predictable, systems, exploit, embedded, temporal, hardware]
+Distance: 1.1117609248882905
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/predictable-hardware-to-exploit-temporal-reuse-in-real-time-and-embedded http://ucuenca.edu.ec/resource/author/juan-melchor-segarra-rojas
+
+Keywords Autor: [chicken, health, microscopic, pollution, nitrates, water, fertilizer, research]
+Keywords Publication: [videoondemand, video, batching, demand, simulations, transmissions]
+Distance: 1.04145792303234
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/simulations-on-batching-in-video-on-demand http://ucuenca.edu.ec/resource/author/juan-melchor-segarra-rojas
+
+Keywords Autor: [chicken, health, microscopic, pollution, nitrates, water, fertilizer, research]
+Keywords Publication: [videoondemand, transmission, advancement, plans, online, video, demand]
+Distance: 1.1485053354845285
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/on-line-advancement-of-transmission-plans-in http://ucuenca.edu.ec/resource/author/juan-melchor-segarra-rojas
+
+Keywords Autor: [chicken, health, microscopic, pollution, nitrates, water, fertilizer, research]
+Keywords Publication: [realtime, problem, systems, instruction, optimizing, combined, fetching, wcetwcec]
+Distance: 1.0208088671099202
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/optimizing-combined-wcet-wcec-problem-in-instruction-fetching-for-real-time http://ucuenca.edu.ec/resource/author/juan-melchor-segarra-rojas
+
+Keywords Autor: [chicken, health, microscopic, pollution, nitrates, water, fertilizer, research]
+Keywords Publication: [small, cache, data, predictable, acdc, highperformance]
+Distance: 1.0465318451636652
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/predictable-and-high-performance-data http://ucuenca.edu.ec/resource/author/juan-melchor-segarra-rojas
+
+Keywords Autor: [chicken, health, microscopic, pollution, nitrates, water, fertilizer, research]
+Keywords Publication: [servers, distributed, placement, storage, video, capacity]
+Distance: 1.1415700631848482
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/placement-of-storage-capacity-in-distributed-video http://ucuenca.edu.ec/resource/author/juan-melchor-segarra-rojas
+
+Keywords Autor: [chicken, health, microscopic, pollution, nitrates, water, fertilizer, research]
+Keywords Publication: [videoondemand, streaming, residential, service, tree, video, distribution, networks, demand, structure, quality]
+Distance: 1.084594239120954
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/distribution-of-video-on-demand-in-residential http://ucuenca.edu.ec/resource/author/juan-melchor-segarra-rojas
+
+Keywords Autor: [chicken, health, microscopic, pollution, nitrates, water, fertilizer, research]
+Keywords Publication: [small, cache, realtime, reuse, memory, data, multitasking, real, structure, effective, systems]
+Distance: 1.0715216909528889
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/small-and-effective-data-cache-for-real-time-multitasking http://ucuenca.edu.ec/resource/author/juan-melchor-segarra-rojas
+
+Keywords Autor: [chicken, health, microscopic, pollution, nitrates, water, fertilizer, research]
+Keywords Publication: [cache, realtime, code, memory, multitasking, prefetch, locking, combining, real, system, size]
+Distance: 1.0624564029459926
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/combining-prefetch-with-instruction-cache-locking-in-multitasking-real-time http://ucuenca.edu.ec/resource/author/juan-melchor-segarra-rojas
+
+Keywords Autor: [chicken, health, microscopic, pollution, nitrates, water, fertilizer, research]
+Keywords Publication: [server, large, distributed, storage, video, analysis, distribution, demand, capacity, quality, uniform]
+Distance: 1.04088435272311
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/analysis-and-placement-of-storage-capacity-in-large-distributed-video http://ucuenca.edu.ec/resource/author/juan-melchor-segarra-rojas
+
+Keywords Autor: [chicken, health, microscopic, pollution, nitrates, water, fertilizer, research]
+Keywords Publication: [videoondemand, convergence, periodic, video, demand, broadcasting]
+Distance: 1.0325747639188128
+Deleted Publication: 
+
+http://ucuenca.edu.ec/wkhuska/publication/convergence-of-periodic-broadcasting-and http://ucuenca.edu.ec/resource/author/juan-melchor-segarra-rojas
+
