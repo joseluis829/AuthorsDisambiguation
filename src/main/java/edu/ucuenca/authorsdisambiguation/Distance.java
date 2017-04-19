@@ -94,9 +94,9 @@ public class Distance {
         JsonParser parse = new JsonParser();
         config =  parse.parse(theString).getAsJsonObject();
 
-        DB_URL = DB_URL + config.get("dbServer").getAsString() + "/" + config.get("dbSchema").getAsString();
-        USER = config.get("dbUser").getAsString();
-        PASS = config.get("dbPassword").getAsString();
+        //DB_URL = DB_URL + config.get("dbServer").getAsString() + "/" + config.get("dbSchema").getAsString();
+        //USER = config.get("dbUser").getAsString();
+        //PASS = config.get("dbPassword").getAsString();
 
     }
 
@@ -419,6 +419,8 @@ public class Distance {
         return consultado2;
     }
 
+    
+    
     public List<String> consultado2(String ent, String end) {
         List<String> lista = new ArrayList();
         /*
@@ -457,7 +459,49 @@ public class Distance {
 //QuerySolution solucion = results.nextSolution();
 //ResultSetFormatter.out(System.out, results);
         } catch (Exception e) {
+            System.out.println("Verificar consulta, no existen datos para mostrar"+e);
+        } finally {
+            qexec.close();
+
+        }
+        return lista;
+    }
+    
+    
+    
+    
+    public List<List<String>> c(String ent, String end) {
+        List<List<String>> lista = new ArrayList();
+
+        String entidad = ent;
+        String endpoint = end;
+
+        String consulta = "select distinct ?p ?fn ?ln ?ep { { bind ( 'UDC' as ?ep ) . <http://190.15.141.66:8899/ucuenca/coleccion/com_17> ?r ?d. ?d ?k ?p. ?p a <http://xmlns.com/foaf/0.1/Person> . ?p <http://xmlns.com/foaf/0.1/firstName> ?fn .  ?p <http://xmlns.com/foaf/0.1/lastName> ?ln . } union { service <http://190.15.141.66:8890/myservice/sparql> { bind ( 'CEDIA' as ?ep ) . ?p a <http://xmlns.com/foaf/0.1/Person> . ?p <http://xmlns.com/foaf/0.1/firstName> ?fn .  ?p <http://xmlns.com/foaf/0.1/lastName> ?ln . } }}";
+
+        Query query = QueryFactory.create(consulta);
+        QueryExecution qexec = QueryExecutionFactory.sparqlService(endpoint, query);
+
+        try {
+            ResultSet rs = qexec.execSelect();
+
+            while (rs.hasNext()) {
+                QuerySolution soln = rs.nextSolution();
+                List <String>  nls= new ArrayList<>();
+                
+                
+                nls.add(soln.getResource("p").getURI());
+                nls.add(soln.getLiteral("fn").getString());
+                nls.add(soln.getLiteral("ln").getString());
+                nls.add(soln.getLiteral("ep").getString());
+                
+                lista.add(nls);
+
+            }
+
+            return lista;
+        } catch (Exception e) {
             System.out.println("Verificar consulta, no existen datos para mostrar");
+            e.printStackTrace();
         } finally {
             qexec.close();
 
