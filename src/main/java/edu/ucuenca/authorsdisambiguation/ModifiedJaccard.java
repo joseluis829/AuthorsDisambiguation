@@ -24,8 +24,8 @@ public class ModifiedJaccard {
 
     public double Distance(String Name1, String Name2) {
 
-        List<String> Tks1 = Tokenizer(Name1.toLowerCase());
-        List<String> Tks2 = Tokenizer(Name2.toLowerCase());
+        List<String> Tks1 = Tokenizer(Name1.toLowerCase().replaceAll("(\\p{Lu})(\\p{Lu})","$1 $2"));
+        List<String> Tks2 = Tokenizer(Name2.toLowerCase().replaceAll("(\\p{Lu})(\\p{Lu})","$1 $2"));
 
         Object [] c_ = CountFullMatchs(Tks1, Tks2);
 
@@ -69,7 +69,7 @@ public class ModifiedJaccard {
                         jx = jx/(tk2.size()+0.0);
                         double ij = Math.min(ix, jx)/Math.max(ix, jx);
                         
-                        Count+= Order?ij:1.0;
+                        Count+= Order?ij*0.90:0.90;
                         Count2++;
                         UsedT1.add(i);
                         UsedT2.add(j);
@@ -106,7 +106,7 @@ public class ModifiedJaccard {
                         ix = ix/(tk1.size()+0.0);
                         jx = jx/(tk2.size()+0.0);
                         double ij = Math.min(ix, jx)/Math.max(ix, jx);
-                        Count+= Order?ij:1.0;
+                        Count+= Order?ij*sim:sim;
                         Count2++;
                         UsedT1.add(i);
                         UsedT2.add(j);
@@ -131,7 +131,7 @@ public class ModifiedJaccard {
     }
 
     private String Clean(String n) {
-        return n.replace(",", " ").replace(".", " ");
+        return n.replace(",", " ").replace(".", " ").replace("\"", " ").replace("'", " ").replace("-", " ");
     }
 
     private List<String> Tokenizer(String n) {

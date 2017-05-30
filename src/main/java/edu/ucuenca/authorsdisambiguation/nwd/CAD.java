@@ -11,6 +11,7 @@ import com.hp.hpl.jena.query.QueryExecutionFactory;
 import com.hp.hpl.jena.query.QueryFactory;
 import com.hp.hpl.jena.query.QuerySolution;
 import com.hp.hpl.jena.query.ResultSet;
+import edu.ucuenca.authorsdisambiguation.Data;
 import edu.ucuenca.authorsdisambiguation.ModifiedJaccard;
 import java.util.ArrayList;
 import java.util.List;
@@ -44,7 +45,7 @@ public class CAD {
                 double Distance1 = me.Distance(aA, bA);
                 
                 
-                if (Distance > 0.5 && Distance1 > 0.5){
+                if (Distance > 0.9 && Distance1 > 0.9){
                     return 0.9;
                 }
                 
@@ -61,10 +62,36 @@ public class CAD {
         String entidad = ent;
         String endpoint = end;
 
+        
         String consulta = "select distinct ?fn ?ln  { ?d a <http://purl.org/ontology/bibo/Document> . <" + ent + "> ?r ?d . ?d ?r2 ?p. ?p a <http://xmlns.com/foaf/0.1/Person> . ?p <http://xmlns.com/foaf/0.1/firstName> ?fn .  ?p <http://xmlns.com/foaf/0.1/lastName> ?ln . filter (str(?p) != '"+ent+"') . }";
 
+         String consulta1 = "select distinct  ?fn ?ln where { ?doc <http://purl.org/dc/terms/contributor> <"+ent+"> .  ?doc <http://purl.org/dc/terms/contributor> ?p. ?p <http://www.elsevier.com/xml/svapi/rdf/dtd/givenName> ?fn .  ?p <http://www.elsevier.com/xml/svapi/rdf/dtd/surname> ?ln .  filter (str(?p) != '"+ent+"') . }";
+        
+        String consulta2 = "select distinct  ?fn ?ln where { <http://purl.org/dc/elements/1.1/creator> <http://purl.org/dc/elements/1.1/creator> ?fn . <http://purl.org/dc/elements/1.1/creator> <http://purl.org/dc/elements/1.1/creator> ?ln .  }";
+        
+        String consulta3 = "select distinct  ?fn ?ln where { { ?doc <http://purl.org/dc/terms/contributor> <"+ent+"> .  ?doc <http://purl.org/dc/terms/contributor> ?p. ?p <http://xmlns.com/foaf/0.1/firstName> ?fn .  ?p <http://xmlns.com/foaf/0.1/lastName> ?ln } union { ?doc <http://purl.org/dc/elements/1.1/creator> <"+ent+"> .  ?doc <http://purl.org/dc/terms/contributor> ?p. ?p <http://xmlns.com/foaf/0.1/firstName> ?fn .  ?p <http://xmlns.com/foaf/0.1/lastName> ?ln  } .  filter (str(?p) != '"+ent+"') . }";
+    
+        
         Query query = QueryFactory.create(consulta);
-        QueryExecution qexec = QueryExecutionFactory.sparqlService(endpoint, query);
+        QueryExecution qexec = null;
+         if (end.compareTo("CEDIA")==0){
+            qexec = QueryExecutionFactory.sparqlService("http://190.15.141.66:8890/myservice/sparql", query);
+        }
+        if (end.compareTo("UDC")==0){
+            qexec = QueryExecutionFactory.sparqlService("http://190.15.141.102:8891/myservice/sparql", query);
+        }
+        Data instance = Data.getInstance();
+        if (end.compareTo("AcademicsKnowlodge")==0){
+            qexec = QueryExecutionFactory.create(consulta3,instance.AcademicsKnowlodge);
+        }
+        if (end.compareTo("GoogleScholar")==0){
+            qexec = QueryExecutionFactory.create(consulta2,instance.GoogleScholar);
+        }
+        if (end.compareTo("Scopus")==0){
+            qexec = QueryExecutionFactory.create(consulta1,instance.Scopus);
+        }
+        
+        
 
         try {
             ResultSet rs = qexec.execSelect();

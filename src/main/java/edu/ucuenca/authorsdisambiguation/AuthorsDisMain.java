@@ -35,15 +35,18 @@ public class AuthorsDisMain {
         //Cache.getInstance().prefix=UUID.randomUUID().toString()+"_";
         
         
-        //NWD d2 = new NWD();
+        NWD d2 = new NWD();
         
-        //double NWD = d2.NWD("http://190.15.141.66:8899/cedia/contribuyente/GONZALEZ__PATRICIA", "http://190.15.141.66:8890/myservice/sparql", "http://190.15.141.66:8899/cedia/contribuyente/GONZALEZ__PATRICIA_DRA", "http://190.15.141.66:8890/myservice/sparql", "prueba");
+        double NWD_ = d2.NWD("http://190.15.141.66:8899/ucuenca/contribuyente/ESPINOZA__MAURICIO", 
+                "http://190.15.141.102:8891/myservice/sparql", 
+                "http://190.15.141.66:8899/ucuenca/contribuyente/ESPINOZA__MAURICIO", 
+                "http://190.15.141.102:8891/myservice/sparql", "prueba");
         //String traductorYandex = d2.traductorYandex("telesalud");
-        //System.out.println(NWD);
+        System.out.println(NWD_);
         
         
-        //if (true)
-          // return;
+        if (true)
+           return;
         
         PrintWriter writer = new PrintWriter("/home/cedia/data.txt", "UTF-8");
         

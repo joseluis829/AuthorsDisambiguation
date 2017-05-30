@@ -12,6 +12,7 @@ import com.hp.hpl.jena.query.QueryExecutionFactory;
 import com.hp.hpl.jena.query.QueryFactory;
 import com.hp.hpl.jena.query.QuerySolution;
 import com.hp.hpl.jena.query.ResultSet;
+import edu.ucuenca.authorsdisambiguation.Data;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.PrintStream;
@@ -49,6 +50,74 @@ public class NWD {
 
     }
 
+    public double NWD_(List<String> kws1, List<String> kws2) throws Exception {
+
+        Map<String, List<String>> map = new HashMap<>();
+        List<String> Authors = new ArrayList();
+        Authors.add("1");
+        Authors.add("2");
+        Map<String, Double> Result = new HashMap<>();
+        for (int i = 0; i < Authors.size(); i++) {
+            for (int j = i + 1; j < Authors.size(); j++) {
+                String a1 = Authors.get(i);
+                String a2 = Authors.get(j);
+                List<String> ka1 = null;
+                List<String> ka2 = null;
+                if (map.containsKey(a1)) {
+                    ka1 = map.get(a1);
+                } else {
+                    ka1 = kws1;
+                    //String t1_ = traductor(Joiner.on(" | ").join(ka1)).toLowerCase();
+                    ka1 = traductor(ka1);//new LinkedList<String>(java.util.Arrays.asList(t1_.split("\\s\\|\\s")));
+                    ka1 = clean(ka1);
+                    //System.out.println(uri1 + "|E:" + Joiner.on(",").join(ka1));
+                    ka1 = TopT(ka1, (int) (2.0 * Math.log(ka1.size())));
+                    //System.out.println("1" + "|F:" + Joiner.on(",").join(ka1));
+                    map.put(a1, ka1);
+                }
+
+                if (map.containsKey(a2)) {
+                    ka2 = map.get(a2);
+                } else {
+                    ka2 = kws2;
+                    //String t2_ = traductor(Joiner.on(" | ").join(ka2)).toLowerCase();
+                    ka2 = traductor(ka2);//new LinkedList<String>(java.util.Arrays.asList(t2_.split("\\s\\|\\s")));
+                    ka2 = clean(ka2);
+                    //System.out.println(uri2 + "|E:" + Joiner.on(",").join(ka2));
+                    ka2 = TopT(ka2, (int) (2.0 * Math.log(ka2.size())));
+                    //System.out.println("2" + "|F:" + Joiner.on(",").join(ka2));
+                    map.put(a2, ka2);
+                }
+                //System.out.println(ka1.size() + "," + ka2.size());
+
+                double sum = 0;
+                double num = 0;
+
+                for (String t1 : ka1) {
+                    for (String t2 : ka2) {
+                        num++;
+                        String tt1 = t1;
+                        String tt2 = t2;
+                        double v = NGD(tt1, tt2);
+                        System.out.println(tt1+","+tt2+"="+v);
+                        sum += v;
+                    }
+                }
+                double prom = sum / num;
+                if (num == 0 && sum == 0) {
+                    prom = 2;
+                }
+                Result.put(i + "," + j, prom);
+            }
+        }
+
+        double r = 0;
+        for (Map.Entry<String, Double> cc : Result.entrySet()) {
+            r = cc.getValue();
+        }
+        return r;
+    }
+
     public double NWD(String uri1, String end1, String uri2, String end2, String quy) throws Exception {
 
         List<String> prms = new ArrayList();
@@ -59,7 +128,7 @@ public class NWD {
 
         Collections.sort(prms);
 
-        Double rspc = GetCacheDistance("cacheNWD"+prms.toString());
+        Double rspc = null;//GetCacheDistance("cacheNWD" + prms.toString());
         if (rspc == null) {
             Map<String, List<String>> map = new HashMap<>();
             List<String> Authors = new ArrayList();
@@ -82,9 +151,9 @@ public class NWD {
                         //String t1_ = traductor(Joiner.on(" | ").join(ka1)).toLowerCase();
                         ka1 = traductor(ka1);//new LinkedList<String>(java.util.Arrays.asList(t1_.split("\\s\\|\\s")));
                         ka1 = clean(ka1);
-                        System.out.println(uri1 + "|E:" + Joiner.on(",").join(ka1));
-                        ka1 = TopT(ka1, (int) (2.0 * Math.log(ka1.size())));
-                        System.out.println(uri1 + "|F:" + Joiner.on(",").join(ka1));
+                        //System.out.println(uri1 + "|E:" + Joiner.on(",").join(ka1));
+                        ka1 = TopT(ka1, (int) (3.0 * Math.log(ka1.size())));
+                        //System.out.println(uri1 + "|F:" + Joiner.on(",").join(ka1));
                         map.put(a1, ka1);
                     }
 
@@ -95,9 +164,9 @@ public class NWD {
                         //String t2_ = traductor(Joiner.on(" | ").join(ka2)).toLowerCase();
                         ka2 = traductor(ka2);//new LinkedList<String>(java.util.Arrays.asList(t2_.split("\\s\\|\\s")));
                         ka2 = clean(ka2);
-                        System.out.println(uri2 + "|E:" + Joiner.on(",").join(ka2));
-                        ka2 = TopT(ka2, (int) (2.0 * Math.log(ka2.size())));
-                        System.out.println(uri2 + "|F:" + Joiner.on(",").join(ka2));
+                        //System.out.println(uri2 + "|E:" + Joiner.on(",").join(ka2));
+                        ka2 = TopT(ka2, (int) (3.0 * Math.log(ka2.size())));
+                       // System.out.println(uri2 + "|F:" + Joiner.on(",").join(ka2));
                         map.put(a2, ka2);
                     }
                     //System.out.println(ka1.size() + "," + ka2.size());
@@ -127,7 +196,7 @@ public class NWD {
                 r = cc.getValue();
             }
             rspc = r;
-            PutCacheDistance("cacheNWD"+prms.toString(), rspc);
+            PutCacheDistance("cacheNWD" + prms.toString(), rspc);
         }
         return rspc;
     }
@@ -147,8 +216,8 @@ public class NWD {
         for (int i = 0; i < m.size(); i++) {
             for (int j = i + 1; j < m.size(); j++) {
                 double v = NGD(m.get(i), m.get(j));
-                System.out.println(m.get(i)+","+ m.get(j)+"="+v);
-                
+                //System.out.println(m.get(i) + "," + m.get(j) + "=" + v);
+
                 if (Mapa.containsKey(m.get(i))) {
                     Mapa.put(m.get(i), Mapa.get(m.get(i)) + v);
                 } else {
@@ -189,21 +258,39 @@ public class NWD {
 
         String consulta = Cache.getInstance().config.get("contextQuery").getAsString().value().replaceAll("\\|\\?\\|", entidad);
 
+        String consulta1 = "select distinct ?d where { { ?doc <http://purl.org/dc/terms/contributor> <|?|> . ?doc <http://prismstandard.org/namespaces/basic/2.0/keyword> ?d . } union { ?doc <http://purl.org/dc/terms/contributor> <|?|> . ?doc <http://purl.org/dc/elements/1.1/subject> ?su . ?su <http://www.w3.org/2004/02/skos/core#prefLabel> ?d .} union { ?doc <http://purl.org/dc/terms/contributor> <|?|> . ?doc <http://purl.org/dc/elements/1.1/subject> ?su . ?su <http://www.w3.org/2004/02/skos/core#altLabel> ?d . } }".replaceAll("\\|\\?\\|", entidad);
+        
+        String consulta2 = "select distinct ?d where { <|?|> <http://purl.org/dc/terms/subject> ?d . }".replaceAll("\\|\\?\\|", entidad);
+        
+        String consulta3 = "select distinct ?d where { { ?doc <http://purl.org/dc/elements/1.1/creator> <|?|>. ?doc <http://purl.org/ontology/bibo/Quote> ?d . } union { ?doc <http://purl.org/dc/elements/1.1/creator> <|?|>. ?doc <http://purl.org/dc/terms/subject> ?d . } union { ?doc <http://purl.org/dc/terms/contributor> <|?|>. ?doc <http://purl.org/ontology/bibo/Quote> ?d . } union { ?doc <http://purl.org/dc/terms/contributor> <|?|>. ?doc <http://purl.org/dc/terms/subject> ?d . } }".replaceAll("\\|\\?\\|", entidad);
+        
         Query query = QueryFactory.create(consulta);
-        QueryExecution qexec = QueryExecutionFactory.sparqlService(endpoint, query);
-
-        // QueryExecution qexec = QueryExecutionFactory.sparqlService("http://dbpedia.org/fct/service", query);
-        //System.out.println("Ejecutando consulta");
-        ResultSet resultado = qexec.execSelect();
-        //System.out.println("Fin consulta");
-
+        QueryExecution qexec = null;
+        if (end.compareTo("CEDIA")==0){
+            qexec = QueryExecutionFactory.sparqlService("http://190.15.141.66:8890/myservice/sparql", query);
+        }
+        if (end.compareTo("UDC")==0){
+            qexec = QueryExecutionFactory.sparqlService("http://190.15.141.102:8891/myservice/sparql", query);
+        }
+        Data instance = Data.getInstance();
+        if (end.compareTo("AcademicsKnowlodge")==0){
+            qexec = QueryExecutionFactory.create(consulta3,instance.AcademicsKnowlodge);
+        }
+        if (end.compareTo("GoogleScholar")==0){
+            qexec = QueryExecutionFactory.create(consulta2,instance.GoogleScholar);
+        }
+        if (end.compareTo("Scopus")==0){
+            qexec = QueryExecutionFactory.create(consulta1,instance.Scopus);
+        }
+        
+        
         try {
             ResultSet rs = qexec.execSelect();
 
             while (rs.hasNext()) {
                 QuerySolution soln = rs.nextSolution();
                 //System.out.println(soln.getLiteral("d").getString());
-                lista.add(soln.getLiteral("d").getString());
+                lista.add(soln.getLiteral("d").getString().replace("\"", " ").replace("\'", " ").trim());
                 // System.out.println ( "Val "+soln.getResource("d").getLocalName());
 
             }
@@ -213,7 +300,7 @@ public class NWD {
 //QuerySolution solucion = results.nextSolution();
 //ResultSetFormatter.out(System.out, results);
         } catch (Exception e) {
-            System.out.println("Verificar consulta, no existen datos para mostrar");
+            e.printStackTrace();
         } finally {
             qexec.close();
 
@@ -221,7 +308,7 @@ public class NWD {
         return lista;
     }
 
-    private double NGD(String a, String b) throws IOException, SQLException {
+    public double NGD(String a, String b) throws IOException, SQLException {
 
         a = a.trim();
         b = b.trim();
@@ -244,16 +331,15 @@ public class NWD {
 
         double n0 = getResultsCount(_a);
         double n1 = getResultsCount(_b);
-        double n2=0;
-        
-        if (n0==0 || n1 ==0){
+        double n2 = 0;
+
+        if (n0 == 0 || n1 == 0) {
             n2 = 0;
-        }else{
+        } else {
             n2 = getResultsCount(c);
         }
-        
-        //double m = 5026040.0 * 590;
 
+        //double m = 5026040.0 * 590;
         double m = getResultsCount("the");
 
         double distance = 0;
@@ -293,13 +379,14 @@ public class NWD {
 
         String url = "https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srsearch=" + URLEncoder.encode(query, "UTF-8");
         String s = Http(url, "wikipedia+");
-        JsonObject parse = JSON.parse(s);
+        
         double v = 0;
 
         try {
+            JsonObject parse = JSON.parse(s);
             v = parse.get("query").getAsObject().get("searchinfo").getAsObject().get("totalhits").getAsNumber().value().doubleValue();
         } catch (Exception e) {
-            System.out.println(query + s);
+            //System.out.println(query + s);
         }
         return v;
     }
@@ -338,8 +425,6 @@ public class NWD {
         return result;
     }
 
-
-
     public synchronized Double GetCacheDistance(String s) throws SQLException {
 
         Double resp = null;
@@ -357,7 +442,7 @@ public class NWD {
 
     public synchronized String Http(String s, String prefix) throws SQLException, IOException {
 
-        String get = Cache.getInstance().get(prefix+s);
+        String get = Cache.getInstance().get(prefix + s);
         String resp = "";
         if (get != null) {
             //System.out.print(".");
@@ -376,7 +461,7 @@ public class NWD {
             }
             reader.close();
 
-            Cache.getInstance().put(prefix+s, resp);
+            Cache.getInstance().put(prefix + s, resp);
         }
 
         return resp;
@@ -384,7 +469,7 @@ public class NWD {
 
     public synchronized String Http2(String s, Map<String, String> mp, String prefix) throws SQLException, IOException {
         String md = s + mp.toString();
-        String get = Cache.getInstance().get(prefix+md);
+        String get = Cache.getInstance().get(prefix + md);
         String resp = "";
         if (get != null) {
             resp = get;
@@ -408,7 +493,7 @@ public class NWD {
                     resp += line + "\n";
                 }
                 reader.close();
-                Cache.getInstance().put(prefix+md, resp);
+                Cache.getInstance().put(prefix + md, resp);
 
             }
 
@@ -443,22 +528,20 @@ public class NWD {
         return palabras;
     }
 
-    private List<String> traductor(List<String> join) throws SQLException, IOException {
+    public List<String> traductor(List<String> join) throws SQLException, IOException {
         List<String> ls = new ArrayList();
         for (String w : join) {
             if (true) {
-                
-                String con="contexto, "+w;
-                String toLowerCase = traductorYandex(con.trim()).trim().toLowerCase();
-                
-                if (toLowerCase.startsWith("context, ")){
+
+                String con = "contexto, " + w;
+                String toLowerCase = traductorYandex(con.trim()).trim();
+
+                if (toLowerCase.startsWith("context, ")) {
                     toLowerCase = toLowerCase.replaceFirst("context, ", "");
-                }else
-                if (toLowerCase.startsWith("contexto, ")){
+                } else if (toLowerCase.startsWith("contexto, ")) {
                     toLowerCase = toLowerCase.replaceFirst("contexto, ", "");
                 }
-                
-                
+
                 ls.add(toLowerCase);
             } else {
                 //ls.add(traductorBing(w.trim()).trim().toLowerCase());
