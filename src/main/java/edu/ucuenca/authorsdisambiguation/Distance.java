@@ -61,8 +61,6 @@ import org.simmetrics.StringMetric;
 import static org.simmetrics.StringMetricBuilder.with;
 import org.simmetrics.metrics.JaccardSimilarity;
 
-
-
 /**
  *
  * @author bibliodigital
@@ -82,22 +80,16 @@ public class Distance {
 
     JsonObject config = null;
 
-    
-    
-   
-
-
     public Distance() throws IOException, ClassNotFoundException {
         InputStream resourceAsStream = this.getClass().getResourceAsStream("/config.cnf");
         //String readFile = readFile("./config.cnf", Charset.defaultCharset());
         String theString = IOUtils.toString(resourceAsStream, Charset.defaultCharset().toString());
         JsonParser parse = new JsonParser();
-        config =  parse.parse(theString).getAsJsonObject();
+        config = parse.parse(theString).getAsJsonObject();
 
         //DB_URL = DB_URL + config.get("dbServer").getAsString() + "/" + config.get("dbSchema").getAsString();
         //USER = config.get("dbUser").getAsString();
         //PASS = config.get("dbPassword").getAsString();
-
     }
 
     String readFile(String path, Charset encoding)
@@ -114,8 +106,8 @@ public class Distance {
      * @param args the command line arguments
      */
     public synchronized double NWD__(List<String> a, List<String> b) throws ClassNotFoundException, SQLException, IOException {
-    Class.forName("org.postgresql.Driver");
-    conn = DriverManager.getConnection(DB_URL, USER, PASS);
+        Class.forName("org.postgresql.Driver");
+        conn = DriverManager.getConnection(DB_URL, USER, PASS);
         Map<String, List<String>> map = new HashMap<>();
         List<String> Authors = new ArrayList();
         Authors.add("a1");
@@ -419,8 +411,6 @@ public class Distance {
         return consultado2;
     }
 
-    
-    
     public List<String> consultado2(String ent, String end) {
         List<String> lista = new ArrayList();
         /*
@@ -459,17 +449,75 @@ public class Distance {
 //QuerySolution solucion = results.nextSolution();
 //ResultSetFormatter.out(System.out, results);
         } catch (Exception e) {
-            System.out.println("Verificar consulta, no existen datos para mostrar"+e);
+            System.out.println("Verificar consulta, no existen datos para mostrar" + e);
         } finally {
             qexec.close();
 
         }
         return lista;
     }
-    
-    
-    
-    
+
+    public List<List<String>> cx() {
+        List<List<String>> lista = new ArrayList();
+        
+        String consulta ="select distinct ?repo ?p ?fn ?ln {\n" +
+" 	{\n" +
+"	 	bind ('UCDCC' as ?repo) .\n" +
+"	 	<http://190.15.141.66:8899/ucuenca/coleccion/com_17> ?r ?d. \n" +
+"	 	?d ?k ?p. \n" +
+"	 	?p a <http://xmlns.com/foaf/0.1/Person> . \n" +
+"	 	?p <http://xmlns.com/foaf/0.1/firstName> ?fn .  \n" +
+"	 	?p <http://xmlns.com/foaf/0.1/lastName> ?ln .\n" +
+"\n" +
+"	} union { \n" +
+"	 	service <http://190.15.141.66:8890/myservice/sparql> { \n" +
+"	 		bind ('CEDIA' as ?repo) .\n" +
+"	 		?p a <http://xmlns.com/foaf/0.1/Person> . \n" +
+"	 		?p <http://xmlns.com/foaf/0.1/firstName> ?fn .  \n" +
+"	 		?p <http://xmlns.com/foaf/0.1/lastName> ?ln .\n" +
+"	 	} \n" +
+"	} union {\n" +
+"		bind ('OTR' as ?repo) .\n" +
+"		?p a <http://xmlns.com/foaf/0.1/Person> . \n" +
+"		?p <http://xmlns.com/foaf/0.1/firstName> ?fn .  \n" +
+"	 	?p <http://xmlns.com/foaf/0.1/lastName> ?ln .\n" +
+"	} union {\n" +
+"		bind ('OTR2' as ?repo) .\n" +
+"		?p a <http://www.elsevier.com/xml/svapi/rdf/dtd/Author> .\n" +
+"		?p <http://xmlns.com/foaf/0.1/firstName> ?fn .  \n" +
+"	 	?p <http://xmlns.com/foaf/0.1/lastName> ?ln .\n" +
+"	}\n" +
+" }";
+        
+        Query query = QueryFactory.create(consulta);
+        QueryExecution qexec = QueryExecutionFactory.sparqlService("http://190.15.141.102:8891/myservice/sparql", query);
+
+        try {
+            ResultSet rs = qexec.execSelect();
+
+            while (rs.hasNext()) {
+                QuerySolution soln = rs.nextSolution();
+                String uri = soln.getResource("p").getURI();
+                List<String> nls = new ArrayList<>();
+
+                nls.add(soln.getResource("p").getURI());
+                nls.add(soln.getLiteral("fn").getString());
+                nls.add(soln.getLiteral("ln").getString());
+                nls.add(soln.getLiteral("repo").getString());
+
+                lista.add(nls);
+            }
+            return lista;
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            qexec.close();
+
+        }
+        return lista;
+
+    }
+
     public List<List<String>> c(String ent, String end) {
         List<List<String>> lista = new ArrayList();
 
@@ -486,14 +534,13 @@ public class Distance {
 
             while (rs.hasNext()) {
                 QuerySolution soln = rs.nextSolution();
-                List <String>  nls= new ArrayList<>();
-                
-                
+                List<String> nls = new ArrayList<>();
+
                 nls.add(soln.getResource("p").getURI());
                 nls.add(soln.getLiteral("fn").getString());
                 nls.add(soln.getLiteral("ln").getString());
                 nls.add(soln.getLiteral("ep").getString());
-                
+
                 lista.add(nls);
 
             }
@@ -703,7 +750,7 @@ public class Distance {
                 stmt2.executeUpdate();
                 stmt2.close();
             } catch (Exception e) {
-                System.out.printf("Error al insertar en la DB: " +  e);
+                System.out.printf("Error al insertar en la DB: " + e);
             }
 
         }
@@ -755,7 +802,7 @@ public class Distance {
                     stmt2.close();
 
                 } catch (Exception e) {
-                      System.out.printf("Error al insertar en la DB: " +  e);
+                    System.out.printf("Error al insertar en la DB: " + e);
                 }
 
             }
@@ -794,7 +841,7 @@ public class Distance {
         int cont = 0;
         do {
             try {
-                cont ++;
+                cont++;
                 String Http = Http2(url, mp);
                 rs = Http;
                 String res = Http;
@@ -833,7 +880,7 @@ public class Distance {
         }
         return ls;
     }
-    
+
     public double cosineSimilarityAndLevenshteinDistance(String param1, String param2) {
 
         String a = param1;
@@ -841,15 +888,15 @@ public class Distance {
 
         StringMetric metric
                 = with(new CosineSimilarity<String>())
-                .simplify(Simplifiers.toLowerCase())
-                .simplify(Simplifiers.removeNonWord()).simplifierCache()
-                .tokenize(Tokenizers.qGram(3)).tokenizerCache().build();
+                        .simplify(Simplifiers.toLowerCase())
+                        .simplify(Simplifiers.removeNonWord()).simplifierCache()
+                        .tokenize(Tokenizers.qGram(3)).tokenizerCache().build();
         float compare = metric.compare(a, b);
 
         StringMetric metric2
                 = with(new Levenshtein())
-                .simplify(Simplifiers.removeDiacritics())
-                .simplify(Simplifiers.toLowerCase()).build();
+                        .simplify(Simplifiers.removeDiacritics())
+                        .simplify(Simplifiers.toLowerCase()).build();
 
         float compare2 = metric2.compare(a, b);
 
@@ -857,16 +904,15 @@ public class Distance {
 
         return similarity;
     }
-    
+
     public float jaccardSimilarity(String param1, String param2) {
         StringMetric metric2
                 = with(new JaccardSimilarity<String>())
-                .simplify(Simplifiers.removeDiacritics())
-                .simplify(Simplifiers.toLowerCase())
-                .tokenize(Tokenizers.qGram(2)).tokenizerCache().build();
+                        .simplify(Simplifiers.removeDiacritics())
+                        .simplify(Simplifiers.toLowerCase())
+                        .tokenize(Tokenizers.qGram(2)).tokenizerCache().build();
 
         return metric2.compare(param1, param2);
     }
-    
 
 }
